@@ -128,6 +128,7 @@
 
 ## CSS 
 
+- [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 - [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
@@ -719,7 +720,7 @@
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
-- [lyrasoft/chinese-privacy-policy-template](https://github.com/lyrasoft/chinese-privacy-policy-template) - 網站用中文隱私權條款 (Privacy Policy) 範例
+- [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中文隱私權條款 (Privacy Policy) 範例
 - [jcyh0120/sfw-chat](https://github.com/jcyh0120/sfw-chat) - Repo for sfw-chat issues. A nodejs command line chat room application
 - [KlearThink/ui-ux-designer-roadmap-2020](https://github.com/KlearThink/ui-ux-designer-roadmap-2020) - 成為 2020 UI UX Designer Roadmap
 - [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
