@@ -1907,7 +1907,7 @@
 - [qbane/COSCUP_Agenda](https://github.com/qbane/COSCUP_Agenda) - 幫助您參加 COSCUP 時快速找到下一場議程要聽什麼！
 - [php-fig/per-coding-style](https://github.com/php-fig/per-coding-style) - PER coding style
 - [goodjack/essential-image-optimization](https://github.com/goodjack/essential-image-optimization) - Essential Image Optimization - an eBook
-- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share app for macOS
+- [grishka/NearDrop](https://github.com/grishka/NearDrop) - An unofficial Google Nearby Share/Quick Share app for macOS
 - [inbn/component-gallery](https://github.com/inbn/component-gallery) - The Component Gallery is a collection of components from the best Design Systems. Built with Gatsby and Airtable.
 - [gitevents/ics](https://github.com/gitevents/ics) - GitEvents iCal Action to generate .ics files for calendar subscriptions
 - [palaniraja/blog2md](https://github.com/palaniraja/blog2md) - Convert Blogger & Wordpress backup blog posts to hugo compatible markdown documents
