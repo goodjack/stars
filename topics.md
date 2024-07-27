@@ -605,6 +605,7 @@
 
 ## computer-science 
 
+- [shaform/csdream](https://github.com/shaform/csdream) - 資夢 - 我們相信，資訊科技可以改變世界。
 - [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
 - [pjchender/cn2tw4programmer](https://github.com/pjchender/cn2tw4programmer) - 將簡體中文中常用的 Computer Science 詞彙轉換成繁體中文的詞彙
