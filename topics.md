@@ -2076,7 +2076,7 @@
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [hiking93/android-bubble-logger](https://github.com/hiking93/android-bubble-logger) - A tool for developers to display logs within device UI.
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
-- [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中文隱私權條款 (Privacy Policy) 範例
+- [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中英文隱私權政策 (Privacy Policy) 範本
 - [EarlySpringCommitee/HowHow-parser](https://github.com/EarlySpringCommitee/HowHow-parser) - HowHow 影片處理器，協助分割每個發音
 - [EarlySpringCommitee/HowHow-web](https://github.com/EarlySpringCommitee/HowHow-web) - HowHow 發聲器
 - [jcyh0120/sfw-chat](https://github.com/jcyh0120/sfw-chat) - Repo for sfw-chat issues. A nodejs command line chat room application
@@ -2122,7 +2122,7 @@
 - [ckiplab/ckiptagger](https://github.com/ckiplab/ckiptagger) - CKIP Neural Chinese Word Segmentation, POS Tagging, and NER
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [evanslify/continuity](https://github.com/evanslify/continuity) - Re-implementation of Apple's Continuity Protocol
-- [i3thuan5/tau3_phah4-ji7](https://github.com/i3thuan5/tau3_phah4-ji7) - 媠聲 - 唸台語文予你聽
+- [i3thuan5/tau3_phah4-ji7](https://github.com/i3thuan5/tau3_phah4-ji7) - 媠聲／鬥拍字 - 唸台語文予你聽，台語語音合成開源服務
 - [oawu/LiveTaiwan](https://github.com/oawu/LiveTaiwan) - 直播地圖
 - [aszx87410/medium-user-crawler](https://github.com/aszx87410/medium-user-crawler) - Medium user crawler
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
