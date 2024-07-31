@@ -451,7 +451,7 @@
 - [max923/viewpanda](https://github.com/max923/viewpanda) - A chrome extension let you have more information from google reviews before ordering in foodpanda.
 - [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
 - [proksh/atomize](https://github.com/proksh/atomize) - Design System for developers build on styled-components & React JS.
-- [i3thuan5/tau3_phah4-ji7](https://github.com/i3thuan5/tau3_phah4-ji7) - 媠聲 - 唸台語文予你聽
+- [i3thuan5/tau3_phah4-ji7](https://github.com/i3thuan5/tau3_phah4-ji7) - 媠聲／鬥拍字 - 唸台語文予你聽，台語語音合成開源服務
 - [oawu/LiveTaiwan](https://github.com/oawu/LiveTaiwan) - 直播地圖
 - [nevikw39/Anti-Bold](https://github.com/nevikw39/Anti-Bold) - 真 • 煞氣 🅐 割草機 • 卍
 - [swapagarwal/mediumship](https://github.com/swapagarwal/mediumship) - :books: Read all Medium stories for free!
@@ -721,7 +721,7 @@
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech and https://automated-testing.info
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
-- [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中文隱私權條款 (Privacy Policy) 範例
+- [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中英文隱私權政策 (Privacy Policy) 範本
 - [jcyh0120/sfw-chat](https://github.com/jcyh0120/sfw-chat) - Repo for sfw-chat issues. A nodejs command line chat room application
 - [KlearThink/ui-ux-designer-roadmap-2020](https://github.com/KlearThink/ui-ux-designer-roadmap-2020) - 成為 2020 UI UX Designer Roadmap
 - [Roave/SecurityAdvisories](https://github.com/Roave/SecurityAdvisories) - :closed_lock_with_key: Security advisories as a simple composer exclusion list, updated daily
