@@ -104,6 +104,7 @@
 
 ## C++ 
 
+- [tjjh89017/ezio](https://github.com/tjjh89017/ezio) - BT-based Disk Deployment tool
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [Koyingtw/SITCON-2022-agenda-reference](https://github.com/Koyingtw/SITCON-2022-agenda-reference) - 2022 SITCON 學生計算機年會 一般議程：想辦活動或比賽嗎？那先來看看我們吧 相關資源
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1290,6 +1291,7 @@
 
 ## TypeScript 
 
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
