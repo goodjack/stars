@@ -1845,6 +1845,7 @@
 
 ## others 
 
+- [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 - [emfont/emfont](https://github.com/emfont/emfont) - A free webfont service
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
@@ -1947,7 +1948,7 @@
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [simbafs/twitterDL](https://github.com/simbafs/twitterDL) - download all you tweet to json file
 - [fei3363/Awesome-Taiwan-Security-Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course) - Collect the list of information security courses of universities and communities in Taiwan
-- [YilanBoy/docfunc](https://github.com/YilanBoy/docfunc) - 
+- [YilanBoy/docfunc](https://github.com/YilanBoy/docfunc) - A simple blog for let me record my life
 - [gnehs/userscripts](https://github.com/gnehs/userscripts) - 勝勝寫的 userscript 都在這邊
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [yihong0618/blue](https://github.com/yihong0618/blue) - 新的 PR(Issue) 来了来了来了!
@@ -2328,7 +2329,7 @@
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
 - [lanbing510/DouBanSpider](https://github.com/lanbing510/DouBanSpider) - 豆瓣读书的爬虫
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library
-- [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection for Bootstrap 5 templates.
+- [mdbootstrap/bootstrap-templates](https://github.com/mdbootstrap/bootstrap-templates) - A collection of free Bootstrap 5 templates.
 - [Lidemy/forum](https://github.com/Lidemy/forum) - Lidemy 的討論區
 - [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
