@@ -130,6 +130,7 @@
 
 ## CSS 
 
+- [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 - [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -1297,6 +1298,7 @@
 
 ## TypeScript 
 
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
