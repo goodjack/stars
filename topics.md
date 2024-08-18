@@ -97,6 +97,7 @@
 - [html](#html)
 - [html5](#html5)
 - [http](#http)
+- [https](#https)
 - [icon-font](#icon-font)
 - [image-processing](#image-processing)
 - [ios](#ios)
@@ -1278,6 +1279,12 @@
 - [OWASP/www-project-secure-headers](https://github.com/OWASP/www-project-secure-headers) - The OWASP Secure Headers Project
 - [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) - 📚 经典技术书籍推荐，持续更新...
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+
+## https 
+
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
+- [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## icon-font 
 
