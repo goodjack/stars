@@ -216,7 +216,7 @@
 - [DMarby/picsum-photos](https://github.com/DMarby/picsum-photos) - Lorem Ipsum... but for photos.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [sourcegraph/sourcegraph](https://github.com/sourcegraph/sourcegraph) - Code AI platform with Code Search & Cody
+- [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) - Code AI platform with Code Search & Cody
 - [star-39/moe-sticker-bot](https://github.com/star-39/moe-sticker-bot) - A Telegram bot that imports LINE/kakao stickers or creates/manages new sticker set.
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [Ptt-official-app/go-bbs](https://github.com/Ptt-official-app/go-bbs) - BBS file database manager system library in Golang.
@@ -371,8 +371,7 @@
 - [btw-so/btw](https://github.com/btw-so/btw) - Open source Medium alternative- set up your personal blog in minutes.
 - [PDIS/design-system](https://github.com/PDIS/design-system) - PDIS Design System
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
-- [tanmayrajani/notifications-preview-github](https://github.com/tanmayrajani/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
-- [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
+- [fregante/notifications-preview-github](https://github.com/fregante/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [gnehs/GitLab-Telegram-bot](https://github.com/gnehs/GitLab-Telegram-bot) - GPT-4 寫的，有 bug 不要找我
 - [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
