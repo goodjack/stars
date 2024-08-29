@@ -27,6 +27,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -496,6 +497,14 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+
+## chatbot 
+
+- [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude (+Mistral)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [Ptt-Alertor/ptt-alertor](https://github.com/Ptt-Alertor/ptt-alertor) - :loudspeaker: Ptt 文章通知機器人！Notify Ptt Article in Realtime
+- [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
+- [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 
 ## chatgpt 
 
@@ -2178,7 +2187,6 @@
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [sehowju/The-Art-of-Readable-Code](https://github.com/sehowju/The-Art-of-Readable-Code) - The-Art-of-Readable-Code Reading Digest
-- [Ptt-Alertor/ptt-alertor](https://github.com/Ptt-Alertor/ptt-alertor) - :loudspeaker: Ptt 文章通知機器人！Notify Ptt Article in Realtime
 - [onecentlin/laradebut14_ch3-4_demo](https://github.com/onecentlin/laradebut14_ch3-4_demo) - LaraDebut #14 - [單元測試的藝術] 第三.四章 PHP 實作範例
 - [onecentlin/laradebut13_ch1_demo](https://github.com/onecentlin/laradebut13_ch1_demo) - LaraDebut #13 PHPUnit 入門簡介 - [單元測試的藝術] 第一章 PHP 實作範例
 - [sehowju/The-Art-of-Unit-Testing](https://github.com/sehowju/The-Art-of-Unit-Testing) - The-Art-of-Unit-Testing Reading Digest
