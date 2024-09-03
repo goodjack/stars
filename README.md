@@ -1410,7 +1410,7 @@
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [tinymce/tinymce](https://github.com/tinymce/tinymce) - The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular
-- [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
+- [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [bestofjs/bestofjs](https://github.com/bestofjs/bestofjs) - :star: A place to find the best components to build amazing web applications. The best of JavaScript!
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [learn-anything/learn-anything.xyz](https://github.com/learn-anything/learn-anything.xyz) - Organize world's knowledge, explore connections and curate learning paths
