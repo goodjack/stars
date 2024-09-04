@@ -2233,7 +2233,7 @@
 - [moskytw/zipcodetw](https://github.com/moskytw/zipcodetw) - Find Taiwan ZIP code by address fuzzily.
 - [vas3k/btt-touchbar-presets](https://github.com/vas3k/btt-touchbar-presets) - BetterTouchTool Touch Bar Presets
 - [jiangsir/ZeroJudge](https://github.com/jiangsir/ZeroJudge) - ZeroJudge 安裝及設定
-- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page
+- [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A light-weight, no-dependency, vanilla JavaScript engine to drive user's focus across the page
 - [noam3127/github-code-folding](https://github.com/noam3127/github-code-folding) - Chrome extension that enables code folding in GitHub
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [gnachman/iTerm2](https://github.com/gnachman/iTerm2) - iTerm2 is a terminal emulator for Mac OS X that does amazing things.
