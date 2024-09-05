@@ -356,7 +356,7 @@
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 - [AndreMiras/gitpop2](https://github.com/AndreMiras/gitpop2) - Find the most popular fork on GitHub
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
-- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey.
+- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design. Redefine Your Hexo Journey.
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [TWValues/TW-Values](https://github.com/TWValues/TW-Values) - 台灣價值
 - [plankanban/planka](https://github.com/plankanban/planka) - The realtime kanban board for workgroups built with React and Redux.
@@ -1354,7 +1354,7 @@
 - [codingyu/laravel-goto-view](https://github.com/codingyu/laravel-goto-view) - vscode extension
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [mlocati/php-cs-fixer-configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them
 - [Binaryify/OneDark-Pro](https://github.com/Binaryify/OneDark-Pro) - Atom's iconic One Dark theme for Visual Studio Code
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
