@@ -1217,7 +1217,7 @@
 - [phpearth/php-lands](https://github.com/phpearth/php-lands) - 🗺 The PHP Lands Map
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [typebrook/helper](https://github.com/typebrook/helper) - My commonly used scripts and dotfiles. Maybe you'll find something useful here
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [lewagon/dotfiles](https://github.com/lewagon/dotfiles) - Default configuration for Le Wagon's students
