@@ -240,7 +240,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [neighborhood999/fiveN1-rent-scraper](https://github.com/neighborhood999/fiveN1-rent-scraper) - 🏠 a.k.a 591 rent scraper（591 租屋網爬蟲）
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
 ## HTML 
 
@@ -337,7 +337,7 @@
 ## Java 
 
 - [kaif-open/kaif](https://github.com/kaif-open/kaif) - kaif.io source code
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [jenkinsci/zap-plugin](https://github.com/jenkinsci/zap-plugin) - The OWASP ZAP Jenkins Plugin extends the functionality of the ZAP security tool into a CI Environment.
 - [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
