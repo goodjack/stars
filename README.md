@@ -337,6 +337,7 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [kaif-open/kaif](https://github.com/kaif-open/kaif) - kaif.io source code
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [jenkinsci/zap-plugin](https://github.com/jenkinsci/zap-plugin) - The OWASP ZAP Jenkins Plugin extends the functionality of the ZAP security tool into a CI Environment.
