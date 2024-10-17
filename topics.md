@@ -1921,7 +1921,6 @@
 
 ## others 
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [caris-events/tunalog](https://github.com/caris-events/tunalog) - 🐟 Tunalog is a no-installation, easy-to-use blogging system written in Go.
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
 - [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
