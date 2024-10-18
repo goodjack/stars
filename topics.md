@@ -1157,6 +1157,7 @@
 ## hacktoberfest 
 
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -1233,7 +1234,6 @@
 - [Homebrew/homebrew-cask-fonts](https://github.com/Homebrew/homebrew-cask-fonts) - 💀 Casks of Ｆ🅾𝓝𝐓𝚂 (deprecated)
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
-- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [spatie/laravel-query-builder](https://github.com/spatie/laravel-query-builder) - Easily build Eloquent queries from API requests
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
@@ -1929,7 +1929,6 @@
 - [kkdai/bookmarks](https://github.com/kkdai/bookmarks) - Repo to storage all my favorite links
 - [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 - [emfont/emfont](https://github.com/emfont/emfont) - A free webfont service
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
