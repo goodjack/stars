@@ -538,6 +538,7 @@
 
 ## chrome-extension 
 
+- [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [LuisReinoso/git-history-browser-extension](https://github.com/LuisReinoso/git-history-browser-extension) - Agrega un botón a la interfáz de archivos de github para ver su historial / Add a button to the github file interface to see its history
 - [fregante/notifications-preview-github](https://github.com/fregante/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
@@ -2126,7 +2127,6 @@
 - [amochohan/advanced-eloquent-search-filters](https://github.com/amochohan/advanced-eloquent-search-filters) - An example of how to implement advanced Eloquent search filters
 - [kiang/covid19](https://github.com/kiang/covid19) - 
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
-- [NCUAppTeam/NCUAppTeam.github.io](https://github.com/NCUAppTeam/NCUAppTeam.github.io) - Website of NCU App Team
 - [mutix-co/covid19](https://github.com/mutix-co/covid19) - 因應 COVID-19 防疫新生活運動實施實聯制措施，提供確保隱私的服務
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [tongwentang/tongwentang-extension](https://github.com/tongwentang/tongwentang-extension) - 
@@ -3019,6 +3019,7 @@
 
 ## twitter 
 
+- [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [xdevplatform/account-activity-dashboard](https://github.com/xdevplatform/account-activity-dashboard) - Sample web app and helper scripts to get started with the premium Account Activity API
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
