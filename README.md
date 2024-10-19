@@ -277,7 +277,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery) - 振興五倍券加碼券速查
 - [peggy-hsieh/5000gov](https://github.com/peggy-hsieh/5000gov) - 
-- [NCUAppTeam/NCUAppTeam.github.io](https://github.com/NCUAppTeam/NCUAppTeam.github.io) - Website of NCU App Team
 - [emanlaicepsa/emanlaicepsa.github.io](https://github.com/emanlaicepsa/emanlaicepsa.github.io) - 
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
 - [doggy8088/A-Whirlwind-Tour-of-Python-zh-tw](https://github.com/doggy8088/A-Whirlwind-Tour-of-Python-zh-tw) - A Whirlwind Tour of Python (正體中文版)
@@ -1301,6 +1300,7 @@
 
 ## TypeScript 
 
+- [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [pontusab/cursor.directory](https://github.com/pontusab/cursor.directory) - Find the best cursor rules for your framework and language
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
