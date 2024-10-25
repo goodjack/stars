@@ -1351,7 +1351,7 @@
 - [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar) - 🍞📅A JavaScript calendar that has everything you need.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [codingyu/laravel-goto-view](https://github.com/codingyu/laravel-goto-view) - vscode extension
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
