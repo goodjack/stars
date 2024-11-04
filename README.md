@@ -83,7 +83,7 @@
 
 ## C 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
