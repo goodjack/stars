@@ -217,7 +217,7 @@
 
 ## ai 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [Codium-ai/cover-agent](https://github.com/Codium-ai/cover-agent) - QodoAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -466,7 +466,7 @@
 
 ## blockchain 
 
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 
 ## bootstrap 
 
@@ -552,7 +552,6 @@
 - [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
 - [danny0838/content-farm-terminator](https://github.com/danny0838/content-farm-terminator) - Content Farm Terminator browser extension/「終結內容農場」瀏覽器套件
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
-- [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [TomoTom0/HackMD_TOC_always](https://github.com/TomoTom0/HackMD_TOC_always) - With this extension in HackMD, you can see TOC even in edit or split-view mode.
 - [foooomio/view-background-image](https://github.com/foooomio/view-background-image) - Web Extension that adds "View background image" to the context menu
@@ -748,7 +747,7 @@
 
 ## data-visualization 
 
-- [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
+- [paulgb/treeverse](https://github.com/paulgb/treeverse) - Visualize Bluesky conversations as a tree.
 - [metabase/metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 
@@ -2214,7 +2213,7 @@
 - [ckiplab/ckiptagger](https://github.com/ckiplab/ckiptagger) - CKIP Neural Chinese Word Segmentation, POS Tagging, and NER
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [evanslify/continuity](https://github.com/evanslify/continuity) - Re-implementation of Apple's Continuity Protocol
-- [i3thuan5/tau3_phah4-ji7](https://github.com/i3thuan5/tau3_phah4-ji7) - 媠聲／鬥拍字 - 唸台語文予你聽，台語語音合成開源服務
+- [i3thuan5/TauPhahJi-BangTsam](https://github.com/i3thuan5/TauPhahJi-BangTsam) - 媠聲／鬥拍字 - 唸台語文予你聽，台語語音合成開源服務
 - [oawu/LiveTaiwan](https://github.com/oawu/LiveTaiwan) - 直播地圖
 - [aszx87410/medium-user-crawler](https://github.com/aszx87410/medium-user-crawler) - Medium user crawler
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
@@ -3025,7 +3024,6 @@
 ## twitter 
 
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
-- [paulgb/Treeverse](https://github.com/paulgb/Treeverse) - A browser extension for navigating burgeoning Twitter conversations
 - [xdevplatform/account-activity-dashboard](https://github.com/xdevplatform/account-activity-dashboard) - Sample web app and helper scripts to get started with the premium Account Activity API
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [fkztw/py-feedr](https://github.com/fkztw/py-feedr) - A Python parser to tweet the latest updates from multiple RSS feeds.
