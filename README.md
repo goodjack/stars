@@ -864,12 +864,13 @@
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
+- [cornch/laravel-docs-l10n](https://github.com/cornch/laravel-docs-l10n) - Laravel Documentation Translations
 - [cornch/docs.cornch.dev](https://github.com/cornch/docs.cornch.dev) - Documentation site that brings translated Laravel documentation to the world.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
 - [HubSpot/hubspot-api-php](https://github.com/HubSpot/hubspot-api-php) - HubSpot API PHP Client Libraries for V3 version of the API
 - [adamwathan/laracon2017](https://github.com/adamwathan/laracon2017) - 
 - [splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites) - 開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall
-- [YilanBoy/docfunc](https://github.com/YilanBoy/docfunc) - A simple blog for let me record my life
+- [yilanboy/docfunc](https://github.com/yilanboy/docfunc) - A simple blog for let me record my life
 - [forumfox/forumfox](https://github.com/forumfox/forumfox) - 開源且開放版本的「純靠北工程師(init.engineer)」，提供大家可以部屬自己的匿名投稿服務。
 - [Kantai235/Laravel-Template](https://github.com/Kantai235/Laravel-Template) - 這是一份 Laravel 的基礎模板專案，請好好愛護它，謝謝。
 - [laravel/pint](https://github.com/laravel/pint) - Laravel Pint is an opinionated PHP code style fixer for minimalists.
@@ -1061,7 +1062,6 @@
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [ButTaiwan/iansui](https://github.com/ButTaiwan/iansui) - 芫荽，基於 Klee One 改造的學習用台灣繁體字型
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
-- [cornch/laravel-docs-l10n](https://github.com/cornch/laravel-docs-l10n) - Laravel Documentation Translations
 - [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
 - [Winedays/KCouper](https://github.com/Winedays/KCouper) - KFC 官網優惠券整理
