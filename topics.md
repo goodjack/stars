@@ -984,6 +984,7 @@
 ## framework 
 
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
@@ -2032,7 +2033,7 @@
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [simbafs/twitterDL](https://github.com/simbafs/twitterDL) - download all you tweet to json file
 - [fei3363/Awesome-Taiwan-Security-Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course) - Collect the list of information security courses of universities and communities in Taiwan
-- [YilanBoy/docfunc](https://github.com/YilanBoy/docfunc) - A simple blog for let me record my life
+- [yilanboy/docfunc](https://github.com/yilanboy/docfunc) - A simple blog for let me record my life
 - [gnehs/userscripts](https://github.com/gnehs/userscripts) - 勝勝寫的 userscript 都在這邊
 - [yihong0618/blue](https://github.com/yihong0618/blue) - 新的 PR(Issue) 来了来了来了!
 - [gnehs/made-with-pancake-badge](https://github.com/gnehs/made-with-pancake-badge) - Get your "Made with pancake" badge here!
