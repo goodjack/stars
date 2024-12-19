@@ -148,7 +148,6 @@
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
-- [creativetimofficial/tailwind-starter-kit](https://github.com/creativetimofficial/tailwind-starter-kit) - Tailwind Starter Kit a beautiful extension for TailwindCSS, Free and Open Source
 - [missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io) - Traditional Chinese translation of course "The Missing Semester of Your CS Education"
 - [EarlySpringCommitee/HowHow-web](https://github.com/EarlySpringCommitee/HowHow-web) - HowHow 發聲器
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -277,6 +276,7 @@
 - [onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery) - 振興五倍券加碼券速查
 - [peggy-hsieh/5000gov](https://github.com/peggy-hsieh/5000gov) - 
 - [emanlaicepsa/emanlaicepsa.github.io](https://github.com/emanlaicepsa/emanlaicepsa.github.io) - 
+- [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David UI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
 - [doggy8088/A-Whirlwind-Tour-of-Python-zh-tw](https://github.com/doggy8088/A-Whirlwind-Tour-of-Python-zh-tw) - A Whirlwind Tour of Python (正體中文版)
 - [sehowju/The-Art-of-Unit-Testing](https://github.com/sehowju/The-Art-of-Unit-Testing) - The-Art-of-Unit-Testing Reading Digest
@@ -1176,6 +1176,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
