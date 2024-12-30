@@ -1229,7 +1229,7 @@
 - [ascendbruce/dotfiles](https://github.com/ascendbruce/dotfiles) - My dotfiles for Mac and system/applications preferences wiki notes
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [jessarcher/zsh-artisan](https://github.com/jessarcher/zsh-artisan) - Laravel artisan plugin for zsh to help you to run artisan from anywhere in the project tree, with auto-completion, and it can automatically open files created by artisan!
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [Birdie0/discord-webhooks-guide](https://github.com/Birdie0/discord-webhooks-guide) - https://birdie0.github.io/discord-webhooks-guide/
 - [cwchentw/mktext](https://github.com/cwchentw/mktext) - An Useless Text-Processing Utility that Exploits Make Functions
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
@@ -1317,7 +1317,7 @@
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [FizzyElt/fakerator](https://github.com/FizzyElt/fakerator) - generate fake data fn
 - [trackawesomelist/trackawesomelist-source](https://github.com/trackawesomelist/trackawesomelist-source) - Track Awesome List Source Code, build with Deno.
 - [AndreMiras/gitpop3](https://github.com/AndreMiras/gitpop3) - Find the most popular fork on GitHub
@@ -1338,7 +1338,7 @@
 - [lyricstify/lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal with romanization and translation support. Built with Node.js, TypeScript, NestJs, and RxJs.
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
-- [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - React components to build charts and dashboards
+- [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
