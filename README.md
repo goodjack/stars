@@ -147,7 +147,7 @@
 - [cicerakes/DarkNight-FBMessenger](https://github.com/cicerakes/DarkNight-FBMessenger) - A dark/night theme for Facebook's inbox/messages and messenger.com.
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io) - Traditional Chinese translation of course "The Missing Semester of Your CS Education"
 - [EarlySpringCommitee/HowHow-web](https://github.com/EarlySpringCommitee/HowHow-web) - HowHow 發聲器
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
@@ -1376,7 +1376,7 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [clarencetw/cdk-wordpress](https://github.com/clarencetw/cdk-wordpress) - 
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [amir9480/vscode-laravel-extra-intellisense](https://github.com/amir9480/vscode-laravel-extra-intellisense) - This extension adds extra autocompletion for laravel projects to VSCode.
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
