@@ -517,7 +517,7 @@
 ## chatbot 
 
 - [aws-samples/bedrock-claude-chat](https://github.com/aws-samples/bedrock-claude-chat) - AWS-native chatbot using Bedrock + Claude (+Nova and Mistral)
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Ptt-Alertor/ptt-alertor](https://github.com/Ptt-Alertor/ptt-alertor) - :loudspeaker: Ptt 文章通知機器人！Notify Ptt Article in Realtime
 - [botman/botman](https://github.com/botman/botman) - A framework agnostic PHP library to build chat bots
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
@@ -528,14 +528,14 @@
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator) - 基于 OpenAI API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
 
 ## chatgpt-api 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 ## chrome 
 
@@ -1539,7 +1539,7 @@
 
 ## language 
 
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
 - [vdaubry/github-awards](https://github.com/vdaubry/github-awards) - Discover your ranking on github :
 
@@ -1930,6 +1930,7 @@
 
 ## others 
 
+- [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [chusiang/books2read](https://github.com/chusiang/books2read) - To read lists from my bookcases. (Mirror from GitLab)
 - [HeiTang/MailCat](https://github.com/HeiTang/MailCat) - Auto Gmail Rules Manager
 - [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
