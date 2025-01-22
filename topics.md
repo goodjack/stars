@@ -1193,7 +1193,6 @@
 - [PackagePages/LaravelPackage.com](https://github.com/PackagePages/LaravelPackage.com) - Documentation for LaravelPackage.com: Learn to create Laravel specific PHP packages from scratch, following this open documentation.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [JonBunator/gitkraken-custom-themes](https://github.com/JonBunator/gitkraken-custom-themes) - Custom themes for GitKraken client. (https://www.gitkraken.com/)
-- [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [ocftw/OSCVPass](https://github.com/ocftw/OSCVPass) - OSCVPass (Open Source Contributor VIP Pass) 開源貢獻者快速通關計畫，是讓貢獻者提出近一年在開源領域貢獻的證明申請，申請核准後取得一年的 OSCVPass 資格後，可在合作的研討會活動參與取得回饋。
@@ -1934,6 +1933,7 @@
 
 ## others 
 
+- [eight04/ptt-imgur-fix](https://github.com/eight04/ptt-imgur-fix) - 修正 Imgur 在 PTT 上的問題
 - [tom-james-watson/breaktimer-app](https://github.com/tom-james-watson/breaktimer-app) - Manage periodic breaks. Avoid eye-strain and RSI.
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [chusiang/books2read](https://github.com/chusiang/books2read) - To read lists from my bookcases. (Mirror from GitLab)
@@ -2149,7 +2149,7 @@
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [theicfire/makefiletutorial](https://github.com/theicfire/makefiletutorial) - Learn make by example
+- [chaselambda/makefiletutorial](https://github.com/chaselambda/makefiletutorial) - Learn make by example
 - [emanlaicepsa/emanlaicepsa.github.io](https://github.com/emanlaicepsa/emanlaicepsa.github.io) - 
 - [laracasts/Lets-Build-a-Forum-in-Laravel](https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel) - http://laracasts.com/series/lets-build-a-forum-with-laravel
 - [StydeNet/enlighten](https://github.com/StydeNet/enlighten) - Enlighten your APIs with auto-generated documentation
