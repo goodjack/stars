@@ -2004,7 +2004,7 @@
 - [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [TWValues/TW-Values](https://github.com/TWValues/TW-Values) - 台灣價值
-- [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - 🌐 Material Design icons for web browsers
+- [material-extensions/material-icons-browser-extension](https://github.com/material-extensions/material-icons-browser-extension) - Material Design icons for web browsers
 - [nanshan-high-school/20240314-homework-basic](https://github.com/nanshan-high-school/20240314-homework-basic) - 
 - [Andy87877/draw.io](https://github.com/Andy87877/draw.io) - use draw.io to draw flow chart
 - [JuenTingShie/ptt-alertor](https://github.com/JuenTingShie/ptt-alertor) - :loudspeaker: Ptt 文章通知機器人！Notify Ptt Article in Realtime
