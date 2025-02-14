@@ -700,7 +700,7 @@
 - [Koyingtw/spec-share](https://github.com/Koyingtw/spec-share) - 特選備審分享
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.
 - [fei3363/Awesome-Taiwan-Security-Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course) - Collect the list of information security courses of universities and communities in Taiwan
-- [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
+- [meanands/heroku-free-alternatives](https://github.com/meanands/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [yeecord/issue](https://github.com/yeecord/issue) - YEE式機器龍 (Yeecord) - 讓 Discord 不再只是聊天軟體
 - [gnehs/made-with-pancake-badge](https://github.com/gnehs/made-with-pancake-badge) - Get your "Made with pancake" badge here!
 - [Fanhuaji/discussion](https://github.com/Fanhuaji/discussion) - 記錄有關繁化姬的議題或是內容
