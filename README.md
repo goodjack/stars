@@ -893,8 +893,8 @@
 - [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
 - [ycs77/laravel-newebpay](https://github.com/ycs77/laravel-newebpay) - Laravel 串接藍新金流套件
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
-- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 10.x/11.x
-- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 10.x/11.x
+- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 11.x/12.x
+- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 11.x/12.x
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [Sea-n/xNTHU](https://github.com/Sea-n/xNTHU) - 靠北清大 2.0 - 不要問為何沒有人審文，先承認你就是沒有人。
 - [php-casbin/laravel-authz](https://github.com/php-casbin/laravel-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel.
