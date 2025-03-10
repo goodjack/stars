@@ -2582,7 +2582,7 @@
 - [neild3r/vscode-php-docblocker](https://github.com/neild3r/vscode-php-docblocker) - Simple docblocker for php
 - [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 - [larastan/larastan](https://github.com/larastan/larastan) - ⚗️ Adds code analysis to Laravel improving developer productivity and code quality.
-- [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - The VS Code Test Explorer extension for PHPUnit
+- [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - The VS Code Test Explorer extension for PHPUnit And Pest
 - [laravolt/avatar](https://github.com/laravolt/avatar) - Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless.
 - [spatie/blender](https://github.com/spatie/blender) - The Laravel template used for our CMS like projects
 - [djoos/Symfony-coding-standard](https://github.com/djoos/Symfony-coding-standard) - Development repository for the Symfony coding standard
@@ -3087,7 +3087,7 @@
 - [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
 - [bovigo/vfsStream](https://github.com/bovigo/vfsStream) - vfsStream is a stream wrapper for a virtual file system that may be helpful in unit tests to mock the real file system. It can be used with any unit test framework, like PHPUnit or SimpleTest.
 - [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-- [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - The VS Code Test Explorer extension for PHPUnit
+- [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - The VS Code Test Explorer extension for PHPUnit And Pest
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [laravel/dusk](https://github.com/laravel/dusk) - Laravel Dusk provides simple end-to-end testing and browser automation.
 
