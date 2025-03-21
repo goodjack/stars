@@ -355,6 +355,7 @@
 
 ## JavaScript 
 
+- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [IaintHamburger/MathHub](https://github.com/IaintHamburger/MathHub) - MathHub Project
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [eight04/ptt-imgur-fix](https://github.com/eight04/ptt-imgur-fix) - 修正 Imgur 在 PTT 上的問題
