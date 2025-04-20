@@ -571,7 +571,6 @@
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [xralphack/Stackoverflow-Likes](https://github.com/xralphack/Stackoverflow-Likes) - Collect questions or anwsers on Stack Overflow
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [ElementUI/element-in-laravel-starter](https://github.com/ElementUI/element-in-laravel-starter) - Laravel Project with Vue2 and Element
 - [xitu/front-end-handbook-2017](https://github.com/xitu/front-end-handbook-2017) - 2017 edition of our front-end development guide
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
@@ -641,6 +640,7 @@
 
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
@@ -914,11 +914,11 @@
 - [irazasyed/laravel-gamp](https://github.com/irazasyed/laravel-gamp) - 📊 Laravel Google Analytics Measurement Protocol Package
 - [leokhoa/laragon](https://github.com/leokhoa/laragon) - Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [blade-ui-kit/blade-icons](https://github.com/blade-ui-kit/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
+- [driesvints/blade-icons](https://github.com/driesvints/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
 - [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - A Psalm plugin for Laravel
 - [StydeNet/enlighten](https://github.com/StydeNet/enlighten) - Enlighten your APIs with auto-generated documentation
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 127 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [ylsideas/feature-flags](https://github.com/ylsideas/feature-flags) - A Laravel package for handling feature flags
 - [laravel-shift/laravel-8.x](https://github.com/laravel-shift/laravel-8.x) - 
@@ -1330,7 +1330,7 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) - AWS-native chatbot using Bedrock
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
-- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
+- [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your GitHub summary card for profile README
 - [whatk233/ddg-email-panel](https://github.com/whatk233/ddg-email-panel) - DDG Email Panel is the open source unofficial DuckDuckGo Email Protection panel.
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Paris 2024 Summer Olympic Games calendars (*.ics)
 - [mebjas/html5-qrcode](https://github.com/mebjas/html5-qrcode) - A cross platform HTML5 QR code reader. See end to end implementation at: https://scanapp.org
