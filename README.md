@@ -1019,7 +1019,7 @@
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
 - [bepsvpt-me/facebook-anonymous-publisher](https://github.com/bepsvpt-me/facebook-anonymous-publisher) - 
 - [briannesbitt/Carbon](https://github.com/briannesbitt/Carbon) - A simple PHP API extension for DateTime.
-- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9/10/11
+- [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
 - [Labs64/laravel-boilerplate](https://github.com/Labs64/laravel-boilerplate) - Laravel Boilerplate / Starter Kit with Gentelella Admin Theme
 - [Mombuyish/Laravel-Oh-Generators](https://github.com/Mombuyish/Laravel-Oh-Generators) - This package extends the core file generators that are included with Laravel 5 or later.
 - [Superbalist/laravel-google-cloud-storage](https://github.com/Superbalist/laravel-google-cloud-storage) - A Google Cloud Storage filesystem for Laravel
