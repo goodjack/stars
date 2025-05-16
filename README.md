@@ -692,7 +692,6 @@
 - [kaif-open/kaif-api](https://github.com/kaif-open/kaif-api) - kaif open API documentation
 - [bloggerpack/blogger-snippets](https://github.com/bloggerpack/blogger-snippets) - Blogger code snippets
 - [TablePlus/DBngin](https://github.com/TablePlus/DBngin) - DB Engine
-- [MoonlitOwen/ThenKhung](https://github.com/MoonlitOwen/ThenKhung) - 宇文天穹 UoqMunThenKhung
 - [achen224/vuejs-starting-workshop](https://github.com/achen224/vuejs-starting-workshop) - 
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -1068,6 +1067,7 @@
 - [Michelle37101/Library-Hyread-Ebook-Searching](https://github.com/Michelle37101/Library-Hyread-Ebook-Searching) - the script for finding free ebooks in the Taiwanese public library on Hyread platform
 - [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
+- [MoonlitOwen/ThenKhung](https://github.com/MoonlitOwen/ThenKhung) - 宇文天穹 UoqMunThenKhung
 - [qqaatw/JciHitachiHA](https://github.com/qqaatw/JciHitachiHA) - A home assistant integration for controlling Jci-Hitachi devices, using LibJciHitachi backend. 台灣日立雲端模組
 - [qqaatw/LibJciHitachi](https://github.com/qqaatw/LibJciHitachi) - A library for controlling Jci-Hitachi devices 台灣日立雲端模組 裝置控制
 - [Bogdanp/dramatiq_dashboard](https://github.com/Bogdanp/dramatiq_dashboard) - A dashboard for dramatiq, specific to its Redis broker.
@@ -1191,6 +1191,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [Martichou/rquickshare](https://github.com/Martichou/rquickshare) - Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1399,7 +1400,7 @@
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [clarencetw/cdk-wordpress](https://github.com/clarencetw/cdk-wordpress) - 
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 - [amir9480/vscode-laravel-extra-intellisense](https://github.com/amir9480/vscode-laravel-extra-intellisense) - This extension adds extra autocompletion for laravel projects to VSCode.
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
@@ -1437,7 +1438,7 @@
 - [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [bottenderjs/messaging-apis](https://github.com/bottenderjs/messaging-apis) - Messaging APIs for multi-platform
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
