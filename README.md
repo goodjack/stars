@@ -109,7 +109,6 @@
 
 ## C++ 
 
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [tjjh89017/ezio](https://github.com/tjjh89017/ezio) - BT-based Disk Deployment tool
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [Koyingtw/SITCON-2022-agenda-reference](https://github.com/Koyingtw/SITCON-2022-agenda-reference) - 2022 SITCON 學生計算機年會 一般議程：想辦活動或比賽嗎？那先來看看我們吧 相關資源
@@ -225,7 +224,7 @@
 - [publicsuffix/list](https://github.com/publicsuffix/list) - The Public Suffix List
 - [Ptt-official-app/go-bbs](https://github.com/Ptt-official-app/go-bbs) - BBS file database manager system library in Golang.
 - [Ptt-official-app/Ptt-backend](https://github.com/Ptt-official-app/Ptt-backend) - PTT APP 的後端
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [StillFantastic/bullshit](https://github.com/StillFantastic/bullshit) - A bullshit generator / 唬爛產生器
 - [TritonHo/slides](https://github.com/TritonHo/slides) - it is a repository to store all slides used by Triton Ho's public presentation and course.
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
@@ -268,7 +267,6 @@
 - [wupingju/pinchlime](https://github.com/wupingju/pinchlime) - 
 - [LineiconsHQ/Lineicons](https://github.com/LineiconsHQ/Lineicons) - Free essential line icons for designers and developers - Available in SVG, Figma and Icon Font. 100% Free to use with commercial or personal projects
 - [mshibanami/GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) - Unofficial RSS feed generator for GitHub Trending
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [robin019/ottsearch](https://github.com/robin019/ottsearch) - 
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [qrtt1/ithome-ironman](https://github.com/qrtt1/ithome-ironman) - 
@@ -392,6 +390,7 @@
 - [fregante/notifications-preview-github](https://github.com/fregante/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Winedays/KCouper](https://github.com/Winedays/KCouper) - KFC 官網優惠券整理
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [gnehs/GitLab-Telegram-bot](https://github.com/gnehs/GitLab-Telegram-bot) - GPT-4 寫的，有 bug 不要找我
 - [doggy8088/ChatGPTToolkitExtension](https://github.com/doggy8088/ChatGPTToolkitExtension) - 提升 ChatGPT, Gemini, Claude, phind, Groq 網站的使用體驗，提供一些好用功能。像是自動從 URL 填入提示、在回應的地方出現自動提示按鈕。
 - [CommuSidewalk/commusidewalk-app](https://github.com/CommuSidewalk/commusidewalk-app) - Commutag sidewalk project website
