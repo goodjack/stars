@@ -109,6 +109,7 @@
 
 ## C++ 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [tjjh89017/ezio](https://github.com/tjjh89017/ezio) - BT-based Disk Deployment tool
 - [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
 - [Koyingtw/SITCON-2022-agenda-reference](https://github.com/Koyingtw/SITCON-2022-agenda-reference) - 2022 SITCON 學生計算機年會 一般議程：想辦活動或比賽嗎？那先來看看我們吧 相關資源
