@@ -2003,6 +2003,7 @@
 
 ## others 
 
+- [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec) - 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
