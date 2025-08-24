@@ -1328,6 +1328,7 @@
 
 ## TypeScript 
 
+- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec) - From prototype to production with Spec-Driven Development for Claude Code. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
