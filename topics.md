@@ -44,6 +44,7 @@
 - [computer-science](#computer-science)
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [css](#css)
@@ -223,7 +224,6 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## 3d 
 
@@ -706,6 +706,12 @@
 - [abdularis/LAN-Share](https://github.com/abdularis/LAN-Share) - Cross platform LAN File transfer application built with Qt C++ framework
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+
+## crawler 
+
+- [PyPtt/PyPtt](https://github.com/PyPtt/PyPtt) - The best PTT library
+- [Ptt-Alertor/ptt-alertor](https://github.com/Ptt-Alertor/ptt-alertor) - :loudspeaker: Ptt 文章通知機器人！Notify Ptt Article in Realtime
+- [leVirve/CrawlerTutorial](https://github.com/leVirve/CrawlerTutorial) - 爬蟲極簡教學（fetch, parse, search, multiprocessing, API）- PTT 為例
 
 ## cryptocurrency 
 
@@ -2025,6 +2031,7 @@
 
 ## others 
 
+- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [zhsama/claude-sub-agent](https://github.com/zhsama/claude-sub-agent) - AI-driven development workflow system built on Claude Code Sub-Agents.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
@@ -2244,7 +2251,7 @@
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
 - [sitcon-tw/camp2021](https://github.com/sitcon-tw/camp2021) - 
 - [husan42/PChome-alertor](https://github.com/husan42/PChome-alertor) - PChome購物 商品有貨or降價 Line訊息通知
-- [Ptt-official-app/pttbbs-web](https://github.com/Ptt-official-app/pttbbs-web) - https://www.devptt.dev 的 repository. 使用 go-pttbbsweb 為 backend.
+- [Ptt-official-app/pttbbs-web](https://github.com/Ptt-official-app/pttbbs-web) - https://www.devptt.dev 的 repository. 使用 pttbbs-backend 為 backend.
 - [amochohan/advanced-eloquent-search-filters](https://github.com/amochohan/advanced-eloquent-search-filters) - An example of how to implement advanced Eloquent search filters
 - [kiang/covid19](https://github.com/kiang/covid19) - This project intended to provide a map view of the latest covid-19 cnofirmed cases distribution in Taiwan.
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
@@ -2282,6 +2289,7 @@
 - [EngTW/English-for-Programmers](https://github.com/EngTW/English-for-Programmers) - 《程式英文》：用英文提昇程式可讀性
 - [open-source-contributions/packagist-mirror](https://github.com/open-source-contributions/packagist-mirror) - 📦✂️📋📦 Create a mirror of packagist.org metadata for use locally with composer
 - [pwa-builder/pwa-update](https://github.com/pwa-builder/pwa-update) - pwa-update is a web component from the PWABuilder team that brings an awesome "update" experience to your Progressive Web App!
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [hiking93/android-bubble-logger](https://github.com/hiking93/android-bubble-logger) - A tool for developers to display logs within device UI.
 - [websemantics/awesome-ant-design](https://github.com/websemantics/awesome-ant-design) - A curated list of Ant Design resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to
 - [lyrasoft/privacy-policy-template](https://github.com/lyrasoft/privacy-policy-template) - 網站用中英文隱私權政策 (Privacy Policy) 範本
@@ -2450,6 +2458,7 @@
 - [php-fig/fig-standards](https://github.com/php-fig/fig-standards) - Standards either proposed or approved by the Framework Interop Group
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [laracasts/PHP-Vars-To-Js-Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - Transform PHP data to JavaScript.
 - [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - This package extends the core file generators that are included with Laravel 5
 - [qazwsxedccsqzse/php_5.6](https://github.com/qazwsxedccsqzse/php_5.6) - PHP 5.6 with apcu and imagick
@@ -3393,22 +3402,6 @@
 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [Imangazaliev/DiDOM](https://github.com/Imangazaliev/DiDOM) - Simple and fast HTML and XML parser
-
-## zsh 
-
-- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
-- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
-- [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
-- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
