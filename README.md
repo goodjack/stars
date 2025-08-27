@@ -146,7 +146,6 @@
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [caris-events/invade](https://github.com/caris-events/invade) - 👾 中國侵略資料庫 - 這個網路資料庫記載了與中共政府有關的團體、服務還有侵略行為（例如：言論審查、侵害人權）。
 - [goodjack/essential-image-optimization](https://github.com/goodjack/essential-image-optimization) - Essential Image Optimization - an eBook
-- [ocftw/OSCVPass](https://github.com/ocftw/OSCVPass) - OSCVPass (Open Source Contributor VIP Pass) 開源貢獻者快速通關計畫，是讓貢獻者提出近一年在開源領域貢獻的證明申請，申請核准後取得一年的 OSCVPass 資格後，可在合作的研討會活動參與取得回饋。
 - [mgilangjanuar/teledrive](https://github.com/mgilangjanuar/teledrive) - The Google Drive/OneDrive/etc alternative using Telegram API
 - [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) - 
 - [cicerakes/DarkNight-FBMessenger](https://github.com/cicerakes/DarkNight-FBMessenger) - A dark/night theme for Facebook's inbox/messages and messenger.com.
@@ -272,6 +271,7 @@
 - [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [cqkd6381/oomusou.github.io](https://github.com/cqkd6381/oomusou.github.io) - The website of oomusou.io
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [ocftw/OSCVPass](https://github.com/ocftw/OSCVPass) - OSCVPass (Open Source Contributor VIP Pass) 開源貢獻者快速通關計畫，是讓貢獻者提出近一年在開源領域貢獻的證明申請，申請核准後取得一年的 OSCVPass 資格後，可在合作的研討會活動參與取得回饋。
 - [onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery) - 振興五倍券加碼券速查
 - [Peggy-Hsieh-personal/5000gov](https://github.com/Peggy-Hsieh-personal/5000gov) - 
 - [emanlaicepsa/emanlaicepsa.github.io](https://github.com/emanlaicepsa/emanlaicepsa.github.io) - 
