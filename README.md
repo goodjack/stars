@@ -356,6 +356,8 @@
 
 ## JavaScript 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [XWJWPIY/XWJWPIY.github.io](https://github.com/XWJWPIY/XWJWPIY.github.io) - I'm trying to make a blog.
 - [andyli0123/chatgpt-usage-limit-tracker](https://github.com/andyli0123/chatgpt-usage-limit-tracker) - A Chrome Extension to track ChatGPT usage quota.
 - [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -370,7 +372,6 @@
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 - [AndreMiras/gitpop2](https://github.com/AndreMiras/gitpop2) - Find the most popular fork on GitHub
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
-- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [TWValues/TW-Values](https://github.com/TWValues/TW-Values) - 台灣價值
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
@@ -1287,6 +1288,7 @@
 ## Stylus 
 
 - [Siricee/hexo-theme-Chic](https://github.com/Siricee/hexo-theme-Chic) - An elegant, powerful, easy-to-read Hexo theme.
+- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
 - [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 - [probberechts/hexo-theme-cactus](https://github.com/probberechts/hexo-theme-cactus) - :cactus: A responsive, clean and simple theme for Hexo.
 
@@ -1329,7 +1331,7 @@
 ## TypeScript 
 
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec) - From prototype to production with Spec-Driven Development for Claude Code. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build with AI
+- [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec) - From prototype to production with Spec-Driven Development for Claude Code, Gemini CLI and Cursor. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
