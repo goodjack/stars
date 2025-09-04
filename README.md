@@ -1331,6 +1331,7 @@
 
 ## TypeScript 
 
+- [seadog007/smc.peering.tw](https://github.com/seadog007/smc.peering.tw) - A dashboard that shows the current status of submarine cables that connected Taiwan to the world
 - [ttymayor/thu-course-frontend](https://github.com/ttymayor/thu-course-frontend) - 東海課程資訊，一個更好的東海課程資訊網站
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [gotalab/claude-code-spec](https://github.com/gotalab/claude-code-spec) - From prototype to production with Spec-Driven Development for Claude Code, Gemini CLI and Cursor. Slash commands that enforce structured requirements→design→tasks workflow, transforming how you build 
