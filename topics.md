@@ -2057,7 +2057,7 @@
 - [Tofuswang/panictrack](https://github.com/Tofuswang/panictrack) - 
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [IaintHamburger/MathHub-Backend](https://github.com/IaintHamburger/MathHub-Backend) - MathHub Project
-- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [ngseke/iphone-price](https://github.com/ngseke/iphone-price) - 台灣 iPhone 價格歷史趨勢 📈
 - [KieronQuinn/Smartspacer](https://github.com/KieronQuinn/Smartspacer) - Smartspacer is a customisable widget for Android, but with a difference: It can upgrade the built in At a Glance on Pixels - without root!
 - [eight04/ptt-imgur-fix](https://github.com/eight04/ptt-imgur-fix) - 修正 Imgur 在 PTT 上的問題
