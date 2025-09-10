@@ -2154,7 +2154,7 @@
 - [wupingju/pinchlime](https://github.com/wupingju/pinchlime) - 
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [Winedays/KCouper](https://github.com/Winedays/KCouper) - KFC 官網優惠券整理
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [gnehs/GitLab-Telegram-bot](https://github.com/gnehs/GitLab-Telegram-bot) - GPT-4 寫的，有 bug 不要找我
 - [robin019/ottsearch](https://github.com/robin019/ottsearch) - 
 - [nfsnfs/COSCUP-System](https://github.com/nfsnfs/COSCUP-System) - A Personal Data Management for COSCUP
