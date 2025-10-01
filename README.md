@@ -1337,7 +1337,7 @@
 - [seadog007/smc.peering.tw](https://github.com/seadog007/smc.peering.tw) - A dashboard that shows the current status of submarine cables that connected Taiwan to the world
 - [ttymayor/thu-course-frontend](https://github.com/ttymayor/thu-course-frontend) - 東海課程資訊，一個更好的東海課程資訊網站
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Kiro compatible Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming h
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - High quality Spec-Driven Development for Claude Code, Cursor, Gemini CLI and Qwen Code. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
@@ -1388,7 +1388,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-- [Shopify/polaris](https://github.com/Shopify/polaris) - Shopify’s design system to help us work together to build a great experience for all of our merchants.
+- [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [pan93412/homepage](https://github.com/pan93412/homepage) - Pan93412's Homepage
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [theowenyoung/blog](https://github.com/theowenyoung/blog) - blog, en: https://www.owenyoung.com/en/ , 中文: https://www.owenyoung.com/
