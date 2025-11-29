@@ -365,7 +365,6 @@
 - [XWJWPIY/XWJWPIY.github.io](https://github.com/XWJWPIY/XWJWPIY.github.io) - I'm trying to make a blog.
 - [andyli0123/chatgpt-usage-limit-tracker](https://github.com/andyli0123/chatgpt-usage-limit-tracker) - A Chrome Extension to track ChatGPT usage quota.
 - [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [eight04/ptt-imgur-fix](https://github.com/eight04/ptt-imgur-fix) - 修正 Imgur 在 PTT 上的問題
@@ -1361,6 +1360,7 @@
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lis186/taiwan-holiday-mcp](https://github.com/lis186/taiwan-holiday-mcp) - 一個基於 Model Context Protocol (MCP) 的台灣假期查詢伺服器，為 AI 工具提供準確的台灣國定假日資訊。
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [IaintHamburger/MathHub-Backend](https://github.com/IaintHamburger/MathHub-Backend) - MathHub Project
