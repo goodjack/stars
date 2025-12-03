@@ -237,6 +237,7 @@
 
 ## 3d 
 
+- [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
 
 ## agent 
