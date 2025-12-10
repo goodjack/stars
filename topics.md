@@ -2119,7 +2119,7 @@
 - [ttymayor/thu-course-frontend](https://github.com/ttymayor/thu-course-frontend) - 東海課程資訊，一個更好的東海課程資訊網站
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [XWJWPIY/XWJWPIY.github.io](https://github.com/XWJWPIY/XWJWPIY.github.io) - I'm trying to make a blog.
-- [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [contains-studio/agents](https://github.com/contains-studio/agents) - sharing current agents in use
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
