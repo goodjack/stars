@@ -1347,7 +1347,6 @@
 
 ## TypeScript 
 
-- [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
@@ -1508,6 +1507,7 @@
 
 ## Vue 
 
+- [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [gnehs/ntut-course-web](https://github.com/gnehs/ntut-course-web) - 這裡是北科課程好朋友，提供使用者以輕鬆的方式查詢與檢視課程資訊！
 - [gnehs/Justin-Ramen](https://github.com/gnehs/Justin-Ramen) - 賈斯丁寶寶要在三週內在麵屋雞金集 300 點換只有他有的獎品，為了達成目標他會請大家吃便宜拉麵
