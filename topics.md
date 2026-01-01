@@ -2258,7 +2258,6 @@
 - [cornch/docs.cornch.dev](https://github.com/cornch/docs.cornch.dev) - Documentation site that brings translated Laravel documentation to the world.
 - [PDIS/design-system](https://github.com/PDIS/design-system) - PDIS Design System
 - [Koyingtw/cs-events](https://github.com/Koyingtw/cs-events) - 臺灣資訊活動彙整
-- [wupingju/pinchlime](https://github.com/wupingju/pinchlime) - 
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [Winedays/KCouper](https://github.com/Winedays/KCouper) - KFC 官網優惠券整理
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
