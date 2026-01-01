@@ -264,7 +264,6 @@
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [themeselection/sneat-bootstrap-html-admin-template-free](https://github.com/themeselection/sneat-bootstrap-html-admin-template-free) - Most Powerful & Comprehensive Free Bootstrap 5 HTML Admin Dashboard Template built for developers! 🚀
 - [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-- [wupingju/pinchlime](https://github.com/wupingju/pinchlime) - 
 - [LineiconsHQ/Lineicons](https://github.com/LineiconsHQ/Lineicons) - Free essential line icons for designers and developers - Available in SVG, Figma and Icon Font. 100% Free to use with commercial or personal projects
 - [mshibanami/GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) - Unofficial RSS feed generator for GitHub Trending
 - [robin019/ottsearch](https://github.com/robin019/ottsearch) - 
