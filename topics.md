@@ -221,6 +221,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [visualization](#visualization)
@@ -806,7 +807,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [jasonlong/isometric-contributions](https://github.com/jasonlong/isometric-contributions) - Browser extension for rendering an isometric pixel art version of your GitHub contribution graph.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -2272,7 +2273,6 @@
 - [Koyingtw/spec-share](https://github.com/Koyingtw/spec-share) - 特選備審分享
 - [adamwathan/laracon2017](https://github.com/adamwathan/laracon2017) - 
 - [pan93412/homepage](https://github.com/pan93412/homepage) - Pan93412's Homepage
-- [doggy8088/TrackingTokenStripper](https://github.com/doggy8088/TrackingTokenStripper) - A Tampermonkey Userscript that remove most of the annoying tracking token from URL parameters
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [simbafs/twitterDL](https://github.com/simbafs/twitterDL) - download all you tweet to json file
@@ -2351,7 +2351,6 @@
 - [luoscorn/hm_spider](https://github.com/luoscorn/hm_spider) - hm商场项目爬虫与后台接口 celery队列分布
 - [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) - 
 - [rogeraabbccdd/GitKraken-zh-tw](https://github.com/rogeraabbccdd/GitKraken-zh-tw) - GitKraken 正體中文 (台灣) 翻譯
-- [gslin/imgur-links-rewriting-on-ptt](https://github.com/gslin/imgur-links-rewriting-on-ptt) - Rewrite imgur links to bypass referrer check.
 - [immicroloft/ImagePreviewer](https://github.com/immicroloft/ImagePreviewer) - 搜尋頁面中來自 Imgur 的圖片連結，並自動插入實際的圖片。
 - [ktecv2000/How-to-play-CTF](https://github.com/ktecv2000/How-to-play-CTF) - CTF入門建議
 - [Ptt-official-app/go-bbs](https://github.com/Ptt-official-app/go-bbs) - BBS file database manager system library in Golang.
@@ -2988,7 +2987,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Shopify/polaris-react](https://github.com/Shopify/polaris-react) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [yuaanlin/pick-time.io](https://github.com/yuaanlin/pick-time.io) - A tool that help you pick time with friends. 一款幫助您和朋友喬時間的工具。
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
@@ -3225,7 +3224,7 @@
 
 ## svelte 
 
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## swift 
@@ -3413,6 +3412,12 @@
 - [yuuiko/AquaTouch](https://github.com/yuuiko/AquaTouch) - Dynamic Custom Macros for your MacBook TouchBar! (Supports 40+ Apps and Websites)
 - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
+
+## userscript 
+
+- [doggy8088/TrackingTokenStripper](https://github.com/doggy8088/TrackingTokenStripper) - A Tampermonkey Userscript that remove most of the annoying tracking token from URL parameters
+- [gslin/imgur-links-rewriting-on-ptt](https://github.com/gslin/imgur-links-rewriting-on-ptt) - Rewrite imgur links to bypass referrer check.
+- [StylishThemes/GitHub-Dark-Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Archived - Please use https://github.com/StylishThemes/GitHub-Dark directly
 
 ## vim 
 
