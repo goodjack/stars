@@ -1350,7 +1350,7 @@
 
 ## TypeScript 
 
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin- Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — S
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
