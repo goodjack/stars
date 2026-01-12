@@ -1052,7 +1052,6 @@
 - [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Desktop client for Facebook Messenger
 
 ## emacs 
 
@@ -1651,7 +1650,6 @@
 - [kdchang/reactjs101](https://github.com/kdchang/reactjs101) - 從零開始學 ReactJS（ReactJS 101）是一本希望讓初學者一看就懂的 React 中文入門教學書，由淺入深學習 React.js 生態系 (Flux, Redux, React Router, ImmutableJS, React Native, Relay/GraphQL etc.)。
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [aluxian/Messenger-for-Desktop](https://github.com/aluxian/Messenger-for-Desktop) - This is not an official Facebook product, and is not affiliated with, or sponsored or endorsed by, Facebook.
-- [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Desktop client for Facebook Messenger
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## jquery 
@@ -2705,6 +2703,7 @@
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 - [orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made
 - [rsms/fb-mac-messenger](https://github.com/rsms/fb-mac-messenger) - ⚡️ Mac app wrapping Facebook's Messenger for desktop
+- [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Safari extension for notification on messenger.com
 - [macdao/ocds-guide-to-setting-up-mac](https://github.com/macdao/ocds-guide-to-setting-up-mac) - OCD's Guide to Setting up Mac
 - [OpenPTT/OpenPTT](https://github.com/OpenPTT/OpenPTT) - A mobile app for telnet://ptt.cc
 - [facebook/stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
