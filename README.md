@@ -1049,7 +1049,7 @@
 - [summerblue/laravel-package-top-100](https://github.com/summerblue/laravel-package-top-100) - 对 Packagist 上打了 Laravel 标签 的扩展包进行整理，截止到现在 2016 年 8 月 9号，有超过 7176 个扩展包，以下是下载量最大的 100 个。
 - [summerblue/phphub5](https://github.com/summerblue/phphub5) - PHPHub Ver 5 is a Forum project Powered by Laravel 5.1, and it is also the project build up PHP & Laravel China community （此项目已弃用）
 - [howtomakeaturn/cafenomad.tw](https://github.com/howtomakeaturn/cafenomad.tw) - the source code of cafenomad.tw
-- [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
+- [fruitcake/laravel-debugbar](https://github.com/fruitcake/laravel-debugbar) - Debugbar for Laravel (Integrates PHP Debug Bar)
 - [orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges) - Collection of CTF Web challenges I made
 
 ## Perl 
@@ -1498,7 +1498,7 @@
 - [vinta/pangu.js](https://github.com/vinta/pangu.js) - Opinionated paranoid text spacing in JavaScript
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
-- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Save anything. Share, sell or collaborate. Privately.
+- [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Learn and keep track of any topic
 - [sindresorhus/caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
