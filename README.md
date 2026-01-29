@@ -151,7 +151,7 @@
 - [progit/progit2-zh-tw](https://github.com/progit/progit2-zh-tw) - 
 - [cicerakes/DarkNight-FBMessenger](https://github.com/cicerakes/DarkNight-FBMessenger) - A dark/night theme for Facebook's inbox/messages and messenger.com.
 - [spicetify/spicetify-themes](https://github.com/spicetify/spicetify-themes) - A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 - [EarlySpringCommitee/HowHow-web](https://github.com/EarlySpringCommitee/HowHow-web) - HowHow 發聲器
 - [GoogleChrome/web-vitals-extension](https://github.com/GoogleChrome/web-vitals-extension) - A Chrome extension to measure essential metrics for a healthy site
 - [l-hammer/You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) - 💄CSS tricks for web developers~
