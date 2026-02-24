@@ -91,6 +91,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [generative-ai](#generative-ai)
+- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -1207,6 +1208,10 @@
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
 
+## gh-extension 
+
+- [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
+
 ## git 
 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -2178,6 +2183,8 @@
 
 ## others 
 
+- [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
+- [kevin-shu/104-sourcing](https://github.com/kevin-shu/104-sourcing) - 
 - [mukiwu/hyday](https://github.com/mukiwu/hyday) - Hyday -讓思考更清晰，讓知識更有價值
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [noahxp/claude-code-marketplace](https://github.com/noahxp/claude-code-marketplace) - A personal Claude Code plugin marketplace with curated plugins for code review and development workflows.
