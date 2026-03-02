@@ -1087,7 +1087,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [tiangolo/uvicorn-gunicorn-docker](https://github.com/tiangolo/uvicorn-gunicorn-docker) - Docker image with Uvicorn managed by Gunicorn for high-performance web applications in Python with performance auto-tuning.
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
@@ -1397,7 +1397,7 @@
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [leerob/directories](https://github.com/leerob/directories) - The Cursor & Windsurf community, find rules and MCPs
+- [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
 - [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
