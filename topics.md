@@ -80,6 +80,7 @@
 - [eslint](#eslint)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -1107,6 +1108,13 @@
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [laravel-notification-channels/facebook](https://github.com/laravel-notification-channels/facebook) - 📨 Facebook Notifications Channel for Laravel
 - [aluxian/Messenger-for-Desktop](https://github.com/aluxian/Messenger-for-Desktop) - This is not an official Facebook product, and is not affiliated with, or sponsored or endorsed by, Facebook.
+
+## fastapi 
+
+- [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) - AWS-native chatbot using Bedrock
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 
 ## finance 
 
@@ -2292,7 +2300,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [tldraw/make-real](https://github.com/tldraw/make-real) - Draw a ui and make it real
 - [google/pyink](https://github.com/google/pyink) - Pyink, pronounced pī-ˈiŋk, is a Python formatter, forked from Black with a few different formatting behaviors.
-- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [mant0u0/MantouSans](https://github.com/mant0u0/MantouSans) - 饅頭黑體，基於字型 デラゴシック (Dela Gothic One) ，修改而成的臺灣繁體中文補充版本。
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dotfiles/dotfiles.github.com](https://github.com/dotfiles/dotfiles.github.com) - Your unofficial guide to doing dotfiles on GitHub.
