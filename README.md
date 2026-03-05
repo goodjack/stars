@@ -659,6 +659,7 @@
 
 ## Makefile 
 
+- [MilesChou/claude-marketplace](https://github.com/MilesChou/claude-marketplace) - 
 - [chusiang/books2read](https://github.com/chusiang/books2read) - To read lists from my bookcases. (Mirror from GitLab)
 - [shaform/csdream](https://github.com/shaform/csdream) - 資夢 - 我們相信，資訊科技可以改變世界。
 - [welkineins/tw-google-styleguide](https://github.com/welkineins/tw-google-styleguide) - Google 開源專案風格指南 (繁體中文版)
@@ -1299,7 +1300,7 @@
 - [appleboy/dotfiles](https://github.com/appleboy/dotfiles) - Bootstrap for your terminal on Linux or FreeBSD
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [gabrielelana/awesome-terminal-fonts](https://github.com/gabrielelana/awesome-terminal-fonts) - Tools and instructions on how to have awesome symbols in a terminal with a monospace font
