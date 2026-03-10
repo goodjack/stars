@@ -276,6 +276,7 @@
 - [goodjack/oomusou.github.io](https://github.com/goodjack/oomusou.github.io) - The website of oomusou.io
 - [ncase/crowds](https://github.com/ncase/crowds) - The Wisdom and/or Madness of the Crowds
 - [cqkd6381/oomusou.github.io](https://github.com/cqkd6381/oomusou.github.io) - The website of oomusou.io
+- [awslabs/aws-security-assessment-solution](https://github.com/awslabs/aws-security-assessment-solution) - An AWS tool to help you create a point in time assessment of your AWS account using Prowler.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [ocftw/OSCVPass](https://github.com/ocftw/OSCVPass) - OSCVPass (Open Source Contributor VIP Pass) 開源貢獻者快速通關計畫，是讓貢獻者提出近一年在開源領域貢獻的證明申請，申請核准後取得一年的 OSCVPass 資格後，可在合作的研討會活動參與取得回饋。
 - [onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery) - 振興五倍券加碼券速查
@@ -1123,7 +1124,6 @@
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [fslongjin/This-repo-has-1426-stars](https://github.com/fslongjin/This-repo-has-1426-stars) - 这个仓库有1426个star，不信你试试
 - [pan93412/This-repo-has-2-stars](https://github.com/pan93412/This-repo-has-2-stars) - 这个仓库有2个star，不信你试试
-- [awslabs/aws-security-assessment-solution](https://github.com/awslabs/aws-security-assessment-solution) - An AWS tool to help you create a point in time assessment of your AWS account using Prowler.
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -1388,7 +1388,7 @@
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lis186/taiwan-holiday-mcp](https://github.com/lis186/taiwan-holiday-mcp) - 一個基於 Model Context Protocol (MCP) 的台灣假期查詢伺服器，為 AI 工具提供準確的台灣國定假日資訊。
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [IaintHamburger/MathHub-Backend](https://github.com/IaintHamburger/MathHub-Backend) - MathHub Project
