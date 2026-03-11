@@ -696,7 +696,6 @@
 
 - [kevin-shu/104-sourcing](https://github.com/kevin-shu/104-sourcing) - 
 - [mukiwu/hyday](https://github.com/mukiwu/hyday) - Hyday -讓思考更清晰，讓知識更有價值
-- [noahxp/claude-code-marketplace](https://github.com/noahxp/claude-code-marketplace) - A personal Claude Code plugin marketplace with curated plugins for code review and development workflows.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -1078,6 +1077,7 @@
 
 ## Python 
 
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
