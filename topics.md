@@ -1268,7 +1268,7 @@
 - [fregante/notifications-preview-github](https://github.com/fregante/notifications-preview-github) - Browser Extension: preview GitHub notifications with same page pop-overs
 - [mshibanami/GitHubTrendingRSS](https://github.com/mshibanami/GitHubTrendingRSS) - Unofficial RSS feed generator for GitHub Trending
 - [Schweinepriester/github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://www.star-history.com
+- [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
@@ -1757,6 +1757,7 @@
 ## laravel 
 
 - [filamentphp/filament](https://github.com/filamentphp/filament) - A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 - [lunarphp/lunar](https://github.com/lunarphp/lunar) - An open-source package that brings the power of modern headless e-commerce functionality to Laravel.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
