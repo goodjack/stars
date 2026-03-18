@@ -763,7 +763,7 @@
 - [MartinSeeler/iterm2-material-design](https://github.com/MartinSeeler/iterm2-material-design) - A theme / color scheme for iTerm2 based on Google's Material Design Color Palette
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [liaojason2/vscode-cpp-for-windows](https://github.com/liaojason2/vscode-cpp-for-windows) - C/C++ configure file for Windows VSCode and chinese tutorial
-- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [uso-archive/data](https://github.com/uso-archive/data) - Full mirror of UserStyles.org
 - [x0uid/SpotifyAdBlock](https://github.com/x0uid/SpotifyAdBlock) - Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
 - [jacc/awesome-discord](https://github.com/jacc/awesome-discord) - 🕹 A curated list of awesome things on Discord.
@@ -1083,6 +1083,7 @@
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
@@ -1375,7 +1376,6 @@
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
@@ -1406,7 +1406,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
 - [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [aws-samples/bedrock-chat](https://github.com/aws-samples/bedrock-chat) - AWS-native chatbot using Bedrock
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
