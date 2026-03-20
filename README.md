@@ -367,6 +367,7 @@
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [abalone0204/Clairvoyance](https://github.com/abalone0204/Clairvoyance) - Make Taiwan a Better Place to Work
 - [XWJWPIY/XWJWPIY.github.io](https://github.com/XWJWPIY/XWJWPIY.github.io) - I'm trying to make a blog.
 - [andyli0123/chatgpt-usage-limit-tracker](https://github.com/andyli0123/chatgpt-usage-limit-tracker) - A Chrome Extension to track ChatGPT usage quota.
@@ -380,6 +381,7 @@
 - [nolenroyalty/every-uuid](https://github.com/nolenroyalty/every-uuid) - in case I forget one
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [emfont/emfont](https://github.com/emfont/emfont) - A free CJK webfont service 免費中文網頁字體服務
+- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 - [AndreMiras/gitpop2](https://github.com/AndreMiras/gitpop2) - Find the most popular fork on GitHub
@@ -921,8 +923,8 @@
 - [laracasts/cypress](https://github.com/laracasts/cypress) - Laravel Cypress Integration
 - [ycs77/laravel-newebpay](https://github.com/ycs77/laravel-newebpay) - Laravel 串接藍新金流套件
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
-- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 11.x/12.x
-- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 11.x/12.x
+- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 11.x/12.x/13.x
+- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 11.x/12.x/13.x
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [Sea-n/xNTHU](https://github.com/Sea-n/xNTHU) - 靠北清大 2.0 - 不要問為何沒有人審文，先承認你就是沒有人。
 - [php-casbin/laravel-authz](https://github.com/php-casbin/laravel-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel.
@@ -1275,7 +1277,6 @@
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
-- [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [phpearth/php-lands](https://github.com/phpearth/php-lands) - 🗺 The PHP Lands Map
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
@@ -1369,14 +1370,13 @@
 
 ## TypeScript 
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [JimLiu/baoyu-skills](https://github.com/JimLiu/baoyu-skills) - 
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
