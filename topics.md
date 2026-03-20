@@ -1766,8 +1766,8 @@
 - [snowfire/Beautymail](https://github.com/snowfire/Beautymail) - Send beautiful HTML emails with Laravel
 - [shufo/vscode-blade-formatter](https://github.com/shufo/vscode-blade-formatter) - An opinionated Blade file formatter for VSCode
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
-- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 11.x/12.x
-- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 11.x/12.x
+- [nickurt/laravel-stopforumspam](https://github.com/nickurt/laravel-stopforumspam) - StopForumSpam for Laravel 11.x/12.x/13.x
+- [nickurt/laravel-akismet](https://github.com/nickurt/laravel-akismet) - Akismet for Laravel 11.x/12.x/13.x
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [php-casbin/laravel-authz](https://github.com/php-casbin/laravel-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel.
 - [onecentlin/laravel-extension-pack-vscode](https://github.com/onecentlin/laravel-extension-pack-vscode) - A collection of extensions for Laravel development in Visual Studio Code
@@ -2206,7 +2206,7 @@
 ## others 
 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 10 opinionated tools that serve as CEO, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
 - [MilesChou/claude-marketplace](https://github.com/MilesChou/claude-marketplace) - 
