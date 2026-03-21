@@ -2222,7 +2222,7 @@
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+- [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [abalone0204/Clairvoyance](https://github.com/abalone0204/Clairvoyance) - Make Taiwan a Better Place to Work
