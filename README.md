@@ -134,6 +134,7 @@
 
 ## CSS 
 
+- [Chainlift/liftkit](https://github.com/Chainlift/liftkit) - Components from design to production
 - [mahmoud/calver](https://github.com/mahmoud/calver) - 📅 The web's go-to resource for Calendar Versioning info.
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
@@ -367,7 +368,6 @@
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [abalone0204/Clairvoyance](https://github.com/abalone0204/Clairvoyance) - Make Taiwan a Better Place to Work
 - [XWJWPIY/XWJWPIY.github.io](https://github.com/XWJWPIY/XWJWPIY.github.io) - I'm trying to make a blog.
 - [andyli0123/chatgpt-usage-limit-tracker](https://github.com/andyli0123/chatgpt-usage-limit-tracker) - A Chrome Extension to track ChatGPT usage quota.
@@ -572,7 +572,7 @@
 - [fent/chrome-options](https://github.com/fent/chrome-options) - Options page for Chrome extensions
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
 - [gitpoint/git-point](https://github.com/gitpoint/git-point) - GitHub in your pocket :iphone:
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -1273,6 +1273,7 @@
 
 ## Shell 
 
+- [tzengyuxio/claude-statusline](https://github.com/tzengyuxio/claude-statusline) - Two-line status line for Claude Code with context bar, usage tracking, git status, and Nerd Font icons
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [ericbuess/claude-code-docs](https://github.com/ericbuess/claude-code-docs) - 
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
@@ -1377,6 +1378,7 @@
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [LOG1997/log-lottery](https://github.com/LOG1997/log-lottery) - 🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。
 - [NerdyHomeReOpen/RiceCall](https://github.com/NerdyHomeReOpen/RiceCall) - RiceCall, an un-official remake of Raidcall
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
