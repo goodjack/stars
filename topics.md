@@ -285,7 +285,7 @@
 
 ## ai-agents 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
@@ -687,7 +687,7 @@
 ## cli 
 
 - [enulus/OpenPackage](https://github.com/enulus/OpenPackage) - The open, universal, coding agent skills, agents, rules, and commands organizer and package manager.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -948,7 +948,7 @@
 
 ## developer-tools 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude
 - [muety/wakapi](https://github.com/muety/wakapi) - 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1064,7 +1064,7 @@
 
 ## electron 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [ExpTechTW/TREM-electron](https://github.com/ExpTechTW/TREM-electron) - Taiwan Real-time Earthquake Monitoring ( 臺灣即時地震監測 )
 - [ciderapp/Cider](https://github.com/ciderapp/Cider) - 🎵  Source code for Cider 1
@@ -1911,7 +1911,7 @@
 
 ## llm 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
@@ -2038,7 +2038,7 @@
 
 ## mcp 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 - [dyoshikawa/rulesync](https://github.com/dyoshikawa/rulesync) - A Utility CLI for AI Coding Agents
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -2221,6 +2221,7 @@
 
 ## others 
 
+- [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
 - [brucehsu/codelegate](https://github.com/brucehsu/codelegate) - Monorepo for Codelegate, the multi-platform, multi-paradigm coding agent manager
 - [tzengyuxio/claude-statusline](https://github.com/tzengyuxio/claude-statusline) - Two-line status line for Claude Code with context bar, usage tracking, git status, and Nerd Font icons
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -3409,7 +3410,7 @@
 
 ## terminal 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator) - multiple GNOME terminals in one window
 - [lyricstify/lyricstify](https://github.com/lyricstify/lyricstify) - Command line based application to show synchronized Spotify lyrics in your terminal with romanization and translation support. Built with Node.js, TypeScript, NestJs, and RxJs.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -3454,7 +3455,7 @@
 
 ## tui 
 
-- [superset-sh/superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
