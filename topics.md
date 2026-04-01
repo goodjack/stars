@@ -465,7 +465,7 @@
 - [KrishMunot/awesome-startup](https://github.com/KrishMunot/awesome-startup) - :sunglasses: All the required resources to build your own startup
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards.
 - [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
@@ -2223,6 +2223,8 @@
 
 ## others 
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but also make r
+- [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
 - [brucehsu/codelegate](https://github.com/brucehsu/codelegate) - Monorepo for Codelegate, the multi-platform, multi-paradigm coding agent manager
@@ -2237,7 +2239,7 @@
 - [kevin-shu/104-sourcing](https://github.com/kevin-shu/104-sourcing) - 
 - [mukiwu/hyday](https://github.com/mukiwu/hyday) - Hyday -讓思考更清晰，讓知識更有價值
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 18 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -3055,7 +3057,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [vinta/JokeKappa](https://github.com/vinta/JokeKappa) - A library for delivering one-line programming jokes
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 
