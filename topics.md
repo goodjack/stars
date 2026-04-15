@@ -2425,7 +2425,7 @@
 - [Fanhuaji/discussion](https://github.com/Fanhuaji/discussion) - 記錄有關繁化姬的議題或是內容
 - [Yukaii/open-source-ideas](https://github.com/Yukaii/open-source-ideas) - My open source ideas, projects, and WIP
 - [tongwentang/tongwen-dict](https://github.com/tongwentang/tongwen-dict) - 
-- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+- [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Library for conversion between Traditional and Simplified Chinese
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [qrtt1/ithome-ironman](https://github.com/qrtt1/ithome-ironman) - 
 - [liaojason2/learning_progress_and_resource](https://github.com/liaojason2/learning_progress_and_resource) - CSIE / Programming learning progress and resource.
