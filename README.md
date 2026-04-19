@@ -1085,6 +1085,7 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [kevin-wang-mayo/job104_cli](https://github.com/kevin-wang-mayo/job104_cli) - Taiwan 104 Job Bank CLI — for experimental / personal use only. 台灣 104 人力銀行終端機工具，僅供實驗與個人查詢使用。
 - [kitswas/fdroid-metrics-dashboard](https://github.com/kitswas/fdroid-metrics-dashboard) - Dashboard for F-Droid app store metrics and live Badges for apps.
