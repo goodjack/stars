@@ -1411,7 +1411,7 @@
 - [seadog007/smc.peering.tw](https://github.com/seadog007/smc.peering.tw) - A dashboard that shows the current status of submarine cables that connected Taiwan to the world
 - [ttymayor/thu-course-frontend](https://github.com/ttymayor/thu-course-frontend) - 東海課程資訊，一個更好的東海課程資訊網站
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. Kiro style commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI. Support Claude 
+- [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) - Turn approved specs into long-running autonomous implementation. A minimal, adaptable SDD harness with Agent Skills for Claude Code, Codex, Cursor, Copilot, Windsurf, OpenCode, Gemini CLI, and Antigra
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [jiayun/DevWorkbench](https://github.com/jiayun/DevWorkbench) - 
