@@ -258,7 +258,7 @@
 - [gethugothemes/liva-hugo](https://github.com/gethugothemes/liva-hugo) - Liva is a personal blog template powered by Hugo.
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [COSCUP/subscribe](https://github.com/COSCUP/subscribe) - COSCUP newletter subscribe service / COSCUP 電子報訂閱系統
-- [gohugo-ananke/theme](https://github.com/gohugo-ananke/theme) - Ananke: A theme for Hugo Sites
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [aszx87410/blog.huli.tw](https://github.com/aszx87410/blog.huli.tw) - https://blog.huli.tw
 - [aszx87410/huli-life-blog](https://github.com/aszx87410/huli-life-blog) - 
 - [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
@@ -950,7 +950,7 @@
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [driesvints/blade-icons](https://github.com/driesvints/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
-- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - A Psalm plugin for Laravel
+- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - Laravel static analysis with built-in security scanning
 - [StydeNet/enlighten](https://github.com/StydeNet/enlighten) - Enlighten your APIs with auto-generated documentation
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
