@@ -1833,7 +1833,7 @@
 - [irazasyed/laravel-gamp](https://github.com/irazasyed/laravel-gamp) - 📊 Laravel Google Analytics Measurement Protocol Package
 - [driesvints/blade-icons](https://github.com/driesvints/blade-icons) - A package to easily make use of SVG icons in your Laravel Blade views.
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
-- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - A Psalm plugin for Laravel
+- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - Laravel static analysis with built-in security scanning
 - [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - List of 128 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova and Laravel UI.
 - [ylsideas/feature-flags](https://github.com/ylsideas/feature-flags) - A Laravel package for handling feature flags
 - [archtechx/tenancy](https://github.com/archtechx/tenancy) - Automatic multi-tenancy for Laravel. No code changes needed.
@@ -2363,7 +2363,7 @@
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [elapouya/python-docx-template](https://github.com/elapouya/python-docx-template) - Use a docx as a jinja2 template
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
-- [gohugo-ananke/theme](https://github.com/gohugo-ananke/theme) - Ananke: A theme for Hugo Sites
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [aszx87410/blog.huli.tw](https://github.com/aszx87410/blog.huli.tw) - https://blog.huli.tw
 - [aszx87410/huli-life-blog](https://github.com/aszx87410/huli-life-blog) - 
 - [Siricee/hexo-theme-Chic](https://github.com/Siricee/hexo-theme-Chic) - An elegant, powerful, easy-to-read Hexo theme.
@@ -2902,7 +2902,7 @@
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
 - [theiconic/php-ga-measurement-protocol](https://github.com/theiconic/php-ga-measurement-protocol) - Send data to Google Analytics from the server using PHP. Implements GA measurement protocol.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
-- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - A Psalm plugin for Laravel
+- [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - Laravel static analysis with built-in security scanning
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [ylsideas/feature-flags](https://github.com/ylsideas/feature-flags) - A Laravel package for handling feature flags
 - [init-engineer/init.engineer](https://github.com/init-engineer/init.engineer) - 這是一份純靠北工程師的專案，請好好愛護它，謝謝。
