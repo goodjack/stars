@@ -1333,7 +1333,7 @@
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [storyn26383/php-version-switcher](https://github.com/storyn26383/php-version-switcher) - 
 - [philipz/docker_practice](https://github.com/philipz/docker_practice) - Learn and understand Docker, with real DevOps practice!
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [DevinY/dlaravel](https://github.com/DevinY/dlaravel) - Laravel and Docker
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [kevingo/the-little-go-book](https://github.com/kevingo/the-little-go-book) - the little go book 繁體中文翻譯
