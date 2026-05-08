@@ -1526,7 +1526,7 @@
 - [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode) - Solve LeetCode problems in VS Code
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [doczjs/docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
 - [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - Run PHPUnit and Pest tests in VS Code with the native Test Explorer. Supports Docker, SSH, Laravel Sail, ParaTest, and Xdebug step-debugging.
 - [recca0120/phpunit-language-server](https://github.com/recca0120/phpunit-language-server) - PHPUnit Langage Server Protocol
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -1562,7 +1562,6 @@
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 ## Vim Script 
 
