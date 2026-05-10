@@ -1392,6 +1392,7 @@
 
 ## TypeScript 
 
+- [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
 - [tony1223/better-agent-terminal](https://github.com/tony1223/better-agent-terminal) - Multi-workspace terminal aggregator with Claude Code AI integration
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
