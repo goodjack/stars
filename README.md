@@ -128,6 +128,7 @@
 - [jwise/HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for Mac OS X
 - [alrightchiu/SecondRound](https://github.com/alrightchiu/SecondRound) - 初學者寫給初學者的演算法教學
 - [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures) - 180+ Algorithm & Data Structure Problems using C++
+- [EasyIME/PIME](https://github.com/EasyIME/PIME) - Develop input methods for Windows easily with Python and node.js
 - [aguinet/wannakey](https://github.com/aguinet/wannakey) - Wannacry in-memory key recovery
 - [snowie2000/mactype](https://github.com/snowie2000/mactype) - Better font rendering for Windows.
 
@@ -363,7 +364,7 @@
 
 ## JavaScript 
 
-- [jimmysu0309/shinkansen](https://github.com/jimmysu0309/shinkansen) - 快速、流暢的 Chrome 網頁翻譯擴充功能。使用 Google Gemini 將外語網頁翻譯成台灣繁體中文。
+- [jimmysu0309/shinkansen](https://github.com/jimmysu0309/shinkansen) - 快速、流暢的網頁及 YouTube 字幕翻譯擴充功能。支援 8 種目標語言與多種 AI 引擎，資料不經過第三方
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [lis186/ccxray](https://github.com/lis186/ccxray) - X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -1209,7 +1210,6 @@
 - [vinta/JokeKappa](https://github.com/vinta/JokeKappa) - A library for delivering one-line programming jokes
 - [erikbern/eigenstuff](https://github.com/erikbern/eigenstuff) - Use the first eigenvector (stationary distribution) of Google searches for "move from X to Y" to say something about future popularity
 - [TeaEntityLab/teaScriptUtils](https://github.com/TeaEntityLab/teaScriptUtils) - Contains useful scripts for general purpose usages, such as lua compilations and daily used scripts under Unix-like OS/Win32, etc.
-- [EasyIME/PIME](https://github.com/EasyIME/PIME) - Develop input methods for Windows easily with Python and node.js
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [leVirve/CrawlerTutorial](https://github.com/leVirve/CrawlerTutorial) - 爬蟲極簡教學（fetch, parse, search, multiprocessing, API）- PTT 為例
 - [jwlin/ptt-web-crawler](https://github.com/jwlin/ptt-web-crawler) - PTT 網路版爬蟲
@@ -1437,7 +1437,7 @@
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [kawamataryo/sky-follower-bridge](https://github.com/kawamataryo/sky-follower-bridge) - Instantly find and follow the same users from your X(Twitter) follower on Bluesky.
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
+- [cursor/community-plugins](https://github.com/cursor/community-plugins) - Find rules and MCP servers
 - [dahlia/cjk-compsci-terms](https://github.com/dahlia/cjk-compsci-terms) - CJK computer science terms comparison / 中日韓電腦科學術語對照 / 日中韓のコンピュータ科学の用語対照 / 한·중·일 전산학 용어 대조
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
