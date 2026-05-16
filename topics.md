@@ -712,6 +712,7 @@
 
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [tony1223/better-agent-terminal](https://github.com/tony1223/better-agent-terminal) - Multi-workspace terminal aggregator with Claude Code AI integration
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2298,7 +2299,6 @@
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [jimmysu0309/shinkansen](https://github.com/jimmysu0309/shinkansen) - 快速、流暢的網頁及 YouTube 字幕翻譯擴充功能。支援 8 種目標語言與多種 AI 引擎，資料不經過第三方
-- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
 - [pudding0503/github-badge-collection](https://github.com/pudding0503/github-badge-collection) - Github README 常用徽章、卡片和图表合集
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [kevin-wang-mayo/job104_cli](https://github.com/kevin-wang-mayo/job104_cli) - Taiwan 104 Job Bank CLI — for experimental / personal use only. 台灣 104 人力銀行終端機工具，僅供實驗與個人查詢使用。
