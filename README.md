@@ -249,7 +249,7 @@
 
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
 - [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - Collection of the most essential transitions for web apps that you can just copy and paste into any project.
-- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - A Claude Code Skill that turns prompts into horizontal-swipe magazine-style HTML decks — 10 layouts, 5 curated themes, WebGL hero backgrounds, single-file output.
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [caris-events/tunalog](https://github.com/caris-events/tunalog) - 🐟 Tunalog is a no-installation, easy-to-use blogging system written in Go.
 - [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
@@ -261,7 +261,6 @@
 - [gethugothemes/liva-hugo](https://github.com/gethugothemes/liva-hugo) - Liva is a personal blog template powered by Hugo.
 - [microlinkhq/unavatar](https://github.com/microlinkhq/unavatar) - Get unified user avatar from social networks, including Instagram, SoundCloud, Telegram, Twitter, YouTube & more.
 - [COSCUP/subscribe](https://github.com/COSCUP/subscribe) - COSCUP newletter subscribe service / COSCUP 電子報訂閱系統
-- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [aszx87410/blog.huli.tw](https://github.com/aszx87410/blog.huli.tw) - https://blog.huli.tw
 - [aszx87410/huli-life-blog](https://github.com/aszx87410/huli-life-blog) - 
 - [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife) - This repo is for demonstration purposes only.
@@ -391,6 +390,7 @@
 - [tilfinltd/aws-extend-switch-roles](https://github.com/tilfinltd/aws-extend-switch-roles) - Extend your AWS IAM switching roles by Chrome extension, Firefox add-on, or Edge add-on
 - [developStorm/simple-badges](https://github.com/developStorm/simple-badges) - Awesome Simple Icons on your favorite Shields.io Badges. Try out on your profile today!
 - [AndreMiras/gitpop2](https://github.com/AndreMiras/gitpop2) - Find the most popular fork on GitHub
+- [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [TWValues/TW-Values](https://github.com/TWValues/TW-Values) - 台灣價值
