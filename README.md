@@ -43,7 +43,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -296,7 +295,7 @@
 - [ronnywang/newsdiff](https://github.com/ronnywang/newsdiff) - 
 - [fsps60312/code-scenic-u7d66-u65b0-u624b-u7684C-u6559-u5b78](https://github.com/fsps60312/code-scenic-u7d66-u65b0-u624b-u7684C-u6559-u5b78) - 給新手的C++教學 at code風景區
 - [Sea-n/gsat](https://github.com/Sea-n/gsat) - 自 108 年開始，學測最多參採四科，學測五選四網站受到全台師生廣大好評迴響，到了 109 學年度繼續更新資料，旨在提供學弟妹們好用的查詢介面，來看看您心目中的科系用了何種組合，該將準備心力放在哪些考科最有利
-- [rfrd-tw/rfrd-tw.github.io](https://github.com/rfrd-tw/rfrd-tw.github.io) - 
+- [rfrd-tw/rfrd-tw.github.io](https://github.com/rfrd-tw/rfrd-tw.github.io) - Interactive data visualization of ten referendums held alongside Taiwan's midterm elections.
 - [tulios/json-viewer](https://github.com/tulios/json-viewer) - It is a Chrome extension for printing JSON and JSONP.
 - [kkdai/happy-birthday-c9s](https://github.com/kkdai/happy-birthday-c9s) - A repo to celebrate c9s birthday
 - [felixrieseberg/modernweb](https://github.com/felixrieseberg/modernweb) - Code Demo for ModernWeb 2018 Keynote
@@ -914,6 +913,7 @@
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.
 - [laravel/pail](https://github.com/laravel/pail) - Dive into your Laravel application's log files directly from the console. 🪣
 - [composer/satis](https://github.com/composer/satis) - Simple static Composer repository generator - For a full private Composer repo use Private Packagist
+- [dwchiang/nginx-php-fpm](https://github.com/dwchiang/nginx-php-fpm) - Running Cloud Native Laravel/PHP app with nginx + php-fpm 8.2/8.1/8.0/7.4/7.3 across amd64, arm64 arch.
 - [cornch/laravel-docs-l10n](https://github.com/cornch/laravel-docs-l10n) - Laravel Documentation Translations
 - [cornch/docs.cornch.dev](https://github.com/cornch/docs.cornch.dev) - Documentation site that brings translated Laravel documentation to the world.
 - [rectorphp/rector](https://github.com/rectorphp/rector) - Instant Upgrades and Automated Refactoring of any PHP 5.3+ code
@@ -1219,10 +1219,6 @@
 ## Rich Text Format 
 
 - [ckeditor/ckeditor4](https://github.com/ckeditor/ckeditor4) - The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.
-
-## Roff 
-
-- [dwchiang/nginx-php-fpm](https://github.com/dwchiang/nginx-php-fpm) - Running Cloud Native Laravel/PHP app with nginx + php-fpm 8.2/8.1/8.0/7.4/7.3 across amd64, arm64 arch.
 
 ## Ruby 
 
