@@ -2691,7 +2691,7 @@
 - [CarolHsu/rumors-api-client](https://github.com/CarolHsu/rumors-api-client) - check line rumors, base on database of cofacts (g0v project)
 - [xiaohuilam/laravel](https://github.com/xiaohuilam/laravel) - Laravel 深入详解 —— 源代码解析，新手进阶指南
 - [shevajia/TaiwanReferendum](https://github.com/shevajia/TaiwanReferendum) - 2018台灣公投結果中的不合理數據
-- [rfrd-tw/rfrd-tw.github.io](https://github.com/rfrd-tw/rfrd-tw.github.io) - 
+- [rfrd-tw/rfrd-tw.github.io](https://github.com/rfrd-tw/rfrd-tw.github.io) - Interactive data visualization of ten referendums held alongside Taiwan's midterm elections.
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [wama-tw/notes](https://github.com/wama-tw/notes) - 資訊學科能力競賽筆試筆記
 - [Lidemy/mentor-program-2nd](https://github.com/Lidemy/mentor-program-2nd) - 程式導師實驗計畫第二期教材
