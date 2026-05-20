@@ -718,7 +718,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
-- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 24 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) - All parts of Claude Code's system prompt, 27 builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact,  statusline, magic docs, WebFetch, Bash cmd, securit
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -2372,7 +2372,7 @@
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer
 - [kkdai/bookmarks](https://github.com/kkdai/bookmarks) - Repo to storage all my favorite links
 - [chipzoller/hugo-clarity](https://github.com/chipzoller/hugo-clarity) - A theme for Hugo based on VMware Clarity
-- [emfont/emfont](https://github.com/emfont/emfont) - A free CJK webfont service 免費中文網頁字體服務
+- [elvisdragonmao/emfont](https://github.com/elvisdragonmao/emfont) - A free CJK webfont service 免費中文網頁字體服務
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [fabrice404/olympics-calendar](https://github.com/fabrice404/olympics-calendar) - Olympic Games calendars
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
