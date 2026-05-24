@@ -36,6 +36,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [NSIS](#nsis)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -683,6 +684,10 @@
 ## NSIS 
 
 - [da2x/EdgeDeflector](https://github.com/da2x/EdgeDeflector) - A tiny helper application to force Windows 10 to use your preferred web browser instead of ignoring the setting to promote Microsoft Edge. Only runs for a microsecond when needed.
+
+## Nix 
+
+- [itszero/HasGoogleFixedItYet](https://github.com/itszero/HasGoogleFixedItYet) - 估狗翻譯修好了沒？
 
 ## Objective-C 
 
@@ -1350,7 +1355,6 @@
 
 - [kagisearch/kite-public](https://github.com/kagisearch/kite-public) - Open source repository for Kite, news app by Kagi.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [itszero/HasGoogleFixedItYet](https://github.com/itszero/HasGoogleFixedItYet) - 估狗翻譯修好了沒？
 - [npmhub/npmhub](https://github.com/npmhub/npmhub) - 🔎 A browser extension to explore npm dependencies on GitHub repos
 
 ## Swift 
