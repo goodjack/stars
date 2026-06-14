@@ -193,7 +193,7 @@
 ## Dockerfile 
 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker.
+- [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, WordPress, Drupal, Magento, CodeIgniter, Yii, Lumen, Phalcon, CakePHP or any PHP project with 70+ pre-configured services: Nginx, Apa
 
 ## Emacs Lisp 
 
@@ -288,6 +288,7 @@
 - [onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery) - 振興五倍券加碼券速查
 - [Peggy-Hsieh-personal/5000gov](https://github.com/Peggy-Hsieh-personal/5000gov) - 
 - [emanlaicepsa/emanlaicepsa.github.io](https://github.com/emanlaicepsa/emanlaicepsa.github.io) - 
+- [FinMind/FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [creativetimofficial/david-ai](https://github.com/creativetimofficial/david-ai) - David AI is a free and open-source collection of customizable, production-ready UI components built with Tailwind CSS.
 - [paquettg/php-html-parser](https://github.com/paquettg/php-html-parser) - An HTML DOM parser. It allows you to manipulate HTML. Find tags on an HTML page with selectors just like jQuery.
@@ -624,7 +625,6 @@
 
 ## Jupyter Notebook 
 
-- [FinMind/FinMind](https://github.com/FinMind/FinMind) - Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/
 - [bloc97/Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
 - [shevajia/TaiwanReferendum](https://github.com/shevajia/TaiwanReferendum) - 2018台灣公投結果中的不合理數據
 - [Aniket965/Hello-world](https://github.com/Aniket965/Hello-world) - Add any  Program in any language you like or add a hello world Program ❣️ if you like give us :star:
@@ -706,6 +706,7 @@
 
 ## Others 
 
+- [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [pudding0503/github-badge-collection](https://github.com/pudding0503/github-badge-collection) - Github README 常用徽章、卡片和图表合集
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [tzengyuxio/skills](https://github.com/tzengyuxio/skills) - A collection of custom skills for Claude Code and compatible AI coding agents
