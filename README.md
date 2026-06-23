@@ -672,7 +672,6 @@
 
 - [MilesChou/claude-marketplace](https://github.com/MilesChou/claude-marketplace) - 
 - [chusiang/books2read](https://github.com/chusiang/books2read) - To read lists from my bookcases. (Mirror from GitLab)
-- [shaform/csdream](https://github.com/shaform/csdream) - 資夢 - 我們相信，資訊科技可以改變世界。
 - [welkineins/tw-google-styleguide](https://github.com/welkineins/tw-google-styleguide) - Google 開源專案風格指南 (繁體中文版)
 - [phpbrew/phpbrew](https://github.com/phpbrew/phpbrew) - Brew & manage PHP versions in pure PHP at HOME
 
@@ -707,6 +706,7 @@
 
 ## Others 
 
+- [kkc/scenecap-releases](https://github.com/kkc/scenecap-releases) - SceneCap releases
 - [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables) - A curated list of awesome explorable explanations.
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [pudding0503/github-badge-collection](https://github.com/pudding0503/github-badge-collection) - Github README 常用徽章、卡片和图表合集
@@ -887,7 +887,7 @@
 - [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [sivan/javascript-style-guide](https://github.com/sivan/javascript-style-guide) - Airbnb JavaScript Style Guide 中文版
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [xinghongfei/Android-developer-Super-Tools](https://github.com/xinghongfei/Android-developer-Super-Tools) - Android攻城狮—全套必备神级工具（开发，插件，效率,知识管理...更新中）
@@ -1096,6 +1096,7 @@
 
 ## Python 
 
+- [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
 - [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) - A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
@@ -1400,6 +1401,7 @@
 
 ## TypeScript 
 
+- [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
