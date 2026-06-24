@@ -2803,7 +2803,7 @@
 - [jadeydi/booklist](https://github.com/jadeydi/booklist) - Monthly books from stack overflow and hacker news
 - [niezhiyang/open_source_team](https://github.com/niezhiyang/open_source_team) - 国内顶尖团队的开源地址
 - [s3131212/gotyour.pw](https://github.com/s3131212/gotyour.pw) - Got Your PW 是一個簡易的資安資源網站，包含常用的工具，適合初學者的入門教材，和許多值得追蹤的資安相關網站。
-- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js
+- [naver/billboard.js](https://github.com/naver/billboard.js) - 📊 Re-usable, easy interface JavaScript chart library based on D3.js, with SVG and Canvas rendering support
 - [clyang/welly](https://github.com/clyang/welly) - A powerful BBS client for MacOS users
 - [flukeout/css-diner](https://github.com/flukeout/css-diner) - CSS Diner
 - [facebookarchive/atom-ide-ui](https://github.com/facebookarchive/atom-ide-ui) - A collection of user interfaces for Atom IDE.
