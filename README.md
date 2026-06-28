@@ -1402,7 +1402,7 @@
 
 ## TypeScript 
 
-- [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex and enjoy ChatGPT usage separately :)
+- [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex!
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars) - A javascript scrollbar plugin that hides the native scrollbars, provides custom styleable overlay scrollbars, and preserves the native functionality and feel.
