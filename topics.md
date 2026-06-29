@@ -2869,7 +2869,7 @@
 - [erikbern/eigenstuff](https://github.com/erikbern/eigenstuff) - Use the first eigenvector (stationary distribution) of Google searches for "move from X to Y" to say something about future popularity
 - [TeaEntityLab/teaScriptUtils](https://github.com/TeaEntityLab/teaScriptUtils) - Contains useful scripts for general purpose usages, such as lua compilations and daily used scripts under Unix-like OS/Win32, etc.
 - [micjamking/devtools-author](https://github.com/micjamking/devtools-author) - A selection of author settings for Chrome Developer Tools.
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [storyn26383/php-version-switcher](https://github.com/storyn26383/php-version-switcher) - 
 - [philipz/docker_practice](https://github.com/philipz/docker_practice) - Learn and understand Docker, with real DevOps practice!
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
