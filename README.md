@@ -351,7 +351,7 @@
 - [kaif-open/kaif](https://github.com/kaif-open/kaif) - kaif.io source code
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [jenkinsci/zap-plugin](https://github.com/jenkinsci/zap-plugin) - The OWASP ZAP Jenkins Plugin extends the functionality of the ZAP security tool into a CI Environment.
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路,完整单步/回看/变速/语音讲解在 algomooc.com）
 - [k0shk0sh/FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 - [JackyAndroid/AndroidTVLauncher](https://github.com/JackyAndroid/AndroidTVLauncher) - This is a leanback style tv launcher(minSdkVersion 17)
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
