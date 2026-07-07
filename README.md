@@ -139,7 +139,7 @@
 - [pepa-linha/Adminer-Design-Dark](https://github.com/pepa-linha/Adminer-Design-Dark) - Custom dark design for Adminer
 - [paul-hammant/tbd](https://github.com/paul-hammant/tbd) - Source for TrunkBasedDevelopment.com
 - [xianmin/hugo-theme-jane](https://github.com/xianmin/hugo-theme-jane) - A readable & concise theme for Hugo, color schemes to choose, easy to personalize. Working well since 2018.
-- [nicehorse06/se-job](https://github.com/nicehorse06/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
+- [mengtsema/se-job](https://github.com/mengtsema/se-job) - Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力
 - [gohugo-ananke/ananke](https://github.com/gohugo-ananke/ananke) - Ananke: A theme for Hugo Sites
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
