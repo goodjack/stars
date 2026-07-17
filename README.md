@@ -1021,7 +1021,7 @@
 - [PayCrypto/crypto-monitor](https://github.com/PayCrypto/crypto-monitor) - Monitor the crypto currency rate
 - [yidas/phpspreadsheet-helper](https://github.com/yidas/phpspreadsheet-helper) - PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
-- [104corp/laravel-eloquent-generator](https://github.com/104corp/laravel-eloquent-generator) - Laravel ORM Model Generator
+- [104lab/laravel-eloquent-generator](https://github.com/104lab/laravel-eloquent-generator) - Laravel ORM Model Generator
 - [zx1986/phpday-laravel](https://github.com/zx1986/phpday-laravel) - 
 - [jenssegers/date](https://github.com/jenssegers/date) - 🗓 A library to help you work with dates in multiple languages, based on Carbon.
 - [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
