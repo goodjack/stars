@@ -1131,7 +1131,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) - 📚 经典技术书籍推荐，持续更新...
 - [FroggyTaipei/froggy-service](https://github.com/FroggyTaipei/froggy-service) - 邱威傑市民服務網站
-- [104corp/laravel-eloquent-generator](https://github.com/104corp/laravel-eloquent-generator) - Laravel ORM Model Generator
+- [104lab/laravel-eloquent-generator](https://github.com/104lab/laravel-eloquent-generator) - Laravel ORM Model Generator
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [laradock/laradock](https://github.com/laradock/laradock) - Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM
 - [Labs64/laravel-boilerplate](https://github.com/Labs64/laravel-boilerplate) - Laravel Boilerplate / Starter Kit with Gentelella Admin Theme
@@ -1942,7 +1942,7 @@
 - [onecentlin/laravel-adminer](https://github.com/onecentlin/laravel-adminer) - Adminer database manager for Laravel 5+
 - [recca0120/laravel-terminal](https://github.com/recca0120/laravel-terminal) - Runs artisan command in web application
 - [nWidart/laravel-modules](https://github.com/nWidart/laravel-modules) - Module Management In Laravel
-- [104corp/laravel-eloquent-generator](https://github.com/104corp/laravel-eloquent-generator) - Laravel ORM Model Generator
+- [104lab/laravel-eloquent-generator](https://github.com/104lab/laravel-eloquent-generator) - Laravel ORM Model Generator
 - [nunomaduro/collision](https://github.com/nunomaduro/collision) - 💥 Collision is a beautiful error reporting tool for command-line applications
 - [gothinkster/laravel-realworld-example-app](https://github.com/gothinkster/laravel-realworld-example-app) - Exemplary real world backend API built with Laravel
 - [spatie/laravel-permission](https://github.com/spatie/laravel-permission) - Associate users with roles and permissions
