@@ -2367,6 +2367,7 @@
 
 ## others 
 
+- [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!
 - [kkc/scenecap-releases](https://github.com/kkc/scenecap-releases) - SceneCap releases
