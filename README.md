@@ -712,7 +712,6 @@
 
 ## Others 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) - 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [kkc/scenecap-releases](https://github.com/kkc/scenecap-releases) - SceneCap releases
@@ -981,7 +980,7 @@
 - [laravel/fortify](https://github.com/laravel/fortify) - Backend controllers and scaffolding for Laravel authentication.
 - [laravel/jetstream](https://github.com/laravel/jetstream) - Tailwind scaffolding for the Laravel framework.
 - [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
-- [pestphp/pest](https://github.com/pestphp/pest) - Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+- [pestphp/pest](https://github.com/pestphp/pest) - The elegant testing framework for PHP developers and AI agents.
 - [owen-it/laravel-auditing](https://github.com/owen-it/laravel-auditing) - Record the change log from models in Laravel
 - [open-source-contributions/packagist-mirror](https://github.com/open-source-contributions/packagist-mirror) - 📦✂️📋📦 Create a mirror of packagist.org metadata for use locally with composer
 - [spatie/laravel-medialibrary](https://github.com/spatie/laravel-medialibrary) - Associate files with Eloquent models
@@ -1104,6 +1103,7 @@
 ## Python 
 
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
