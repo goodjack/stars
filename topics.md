@@ -2477,7 +2477,7 @@
 - [aszx87410/blog.huli.tw](https://github.com/aszx87410/blog.huli.tw) - https://blog.huli.tw
 - [aszx87410/huli-life-blog](https://github.com/aszx87410/huli-life-blog) - 
 - [Siricee/hexo-theme-Chic](https://github.com/Siricee/hexo-theme-Chic) - An elegant, powerful, easy-to-read Hexo theme.
-- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
+- [evannotfound/hexo-theme-redefine](https://github.com/evannotfound/hexo-theme-redefine) - Fast, Pure, Elegant. Hexo, Redefined.
 - [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
 - [fi3ework/hexo-theme-archer](https://github.com/fi3ework/hexo-theme-archer) - 🎯 A smart and modern theme for Hexo.
 - [tufu9441/maupassant-hexo](https://github.com/tufu9441/maupassant-hexo) - A simple Hexo theme forked from icylogic.
