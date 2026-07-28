@@ -444,7 +444,7 @@
 - [rogeraabbccdd/GitKraken-zh-tw](https://github.com/rogeraabbccdd/GitKraken-zh-tw) - GitKraken 正體中文 (台灣) 翻譯
 - [gslin/imgur-links-rewriting-on-ptt](https://github.com/gslin/imgur-links-rewriting-on-ptt) - Rewrite imgur links to bypass referrer check.
 - [immicroloft/ImagePreviewer](https://github.com/immicroloft/ImagePreviewer) - 搜尋頁面中來自 Imgur 的圖片連結，並自動插入實際的圖片。
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory. Suspend what you don't need.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [cymetrics/blog](https://github.com/cymetrics/blog) - Cymetrics 技術部落格
