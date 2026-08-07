@@ -1205,7 +1205,7 @@
 - [pylint-dev/pylint](https://github.com/pylint-dev/pylint) - It's not just a linter that annoys you!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [chubin/pyphoon](https://github.com/chubin/pyphoon) - :waning_gibbous_moon:  ASCII Art Phase of the Moon (Python version)
 - [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - 📀 Unlimited Google Drive Storage by splitting binary files into base64
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
@@ -1417,6 +1417,7 @@
 
 ## TypeScript 
 
+- [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - The public gallery of animated pet for Codex, Claude Code, OpenCode y Gemini CLI
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [Waishnav/devspace](https://github.com/Waishnav/devspace) - Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code!
