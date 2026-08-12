@@ -93,6 +93,7 @@
 ## C 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+- [gnehs/TaiwanZipcode](https://github.com/gnehs/TaiwanZipcode) - 即時、快速、無需驗證碼之郵遞區號線上查詢工具。
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -210,6 +211,7 @@
 
 ## Go 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
@@ -372,7 +374,6 @@
 
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [jimmysu0309/shinkansen](https://github.com/jimmysu0309/shinkansen) - 快速、流暢的網頁及 YouTube 字幕翻譯擴充功能。支援 8 種目標語言與多種 AI 引擎，資料不經過第三方
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [lis186/ccxray](https://github.com/lis186/ccxray) - X-ray vision for AI agent sessions — a transparent HTTP proxy and dashboard for Claude Code
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
@@ -438,7 +439,7 @@
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [TomoTom0/HackMD_TOC_always](https://github.com/TomoTom0/HackMD_TOC_always) - With this extension in HackMD, you can see TOC even in edit or split-view mode.
 - [foooomio/view-background-image](https://github.com/foooomio/view-background-image) - Web Extension that adds "View background image" to the context menu
 - [ailabstw/social-media-censorship-research-tool](https://github.com/ailabstw/social-media-censorship-research-tool) - 
@@ -1606,7 +1607,6 @@
 - [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 - [gnehs/ntut-course-web](https://github.com/gnehs/ntut-course-web) - 這裡是北科課程好朋友，提供使用者以輕鬆的方式查詢與檢視課程資訊！
 - [gnehs/Justin-Ramen](https://github.com/gnehs/Justin-Ramen) - 賈斯丁寶寶要在三週內在麵屋雞金集 300 點換只有他有的獎品，為了達成目標他會請大家吃便宜拉麵
-- [gnehs/TaiwanZipcode](https://github.com/gnehs/TaiwanZipcode) - 即時、快速、無需驗證碼之郵遞區號線上查詢工具。
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 - [themsaid/wink](https://github.com/themsaid/wink) - A Laravel-based publishing platform
 - [i-ce-fish/py_util](https://github.com/i-ce-fish/py_util) - 
