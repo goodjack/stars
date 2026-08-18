@@ -2412,6 +2412,9 @@
 
 ## others 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+- [Gruntfuggly/todo-tree](https://github.com/Gruntfuggly/todo-tree) - Use ripgrep to find TODO tags and display the results in a tree view
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [jimmy90109/live-status-reminder](https://github.com/jimmy90109/live-status-reminder) - Android Live Update reminder for quickly opening transit QR codes
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
