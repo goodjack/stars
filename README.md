@@ -1129,7 +1129,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [ttymayor/thu-course-crawler](https://github.com/ttymayor/thu-course-crawler) - 
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
+- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable 
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -1423,6 +1423,8 @@
 
 ## TypeScript 
 
+- [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
+- [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [crafter-station/petdex](https://github.com/crafter-station/petdex) - A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
