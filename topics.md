@@ -2690,7 +2690,7 @@
 - [laracasts/Lets-Build-a-Forum-in-Laravel](https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel) - http://laracasts.com/series/lets-build-a-forum-with-laravel
 - [StydeNet/enlighten](https://github.com/StydeNet/enlighten) - Enlighten your APIs with auto-generated documentation
 - [imliam/awesome-livewire](https://github.com/imliam/awesome-livewire) - 🚀 A curated list of awesome resources related to Livewire. https://github.com/livewire/livewire
-- [FlandreDaisuki/My-Browser-Extensions](https://github.com/FlandreDaisuki/My-Browser-Extensions) - My userscripts and usercss(stylus styles)
+- [FlandreDaisuki/browser-extensions](https://github.com/FlandreDaisuki/browser-extensions) - My userscripts and usercss(stylus styles)
 - [itszero/HasGoogleFixedItYet](https://github.com/itszero/HasGoogleFixedItYet) - 估狗翻譯修好了沒？
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [laravel-shift/laravel-8.x](https://github.com/laravel-shift/laravel-8.x) - 
