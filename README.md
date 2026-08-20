@@ -467,7 +467,7 @@
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [laracasts/Lets-Build-a-Forum-in-Laravel](https://github.com/laracasts/Lets-Build-a-Forum-in-Laravel) - http://laracasts.com/series/lets-build-a-forum-with-laravel
-- [FlandreDaisuki/My-Browser-Extensions](https://github.com/FlandreDaisuki/My-Browser-Extensions) - My userscripts and usercss(stylus styles)
+- [FlandreDaisuki/browser-extensions](https://github.com/FlandreDaisuki/browser-extensions) - My userscripts and usercss(stylus styles)
 - [didin1453fatih/dbdesigner.id](https://github.com/didin1453fatih/dbdesigner.id) - Demo project moved to
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [kevin940726/dcard-clone](https://github.com/kevin940726/dcard-clone) - Unofficial Dcard clone web application
