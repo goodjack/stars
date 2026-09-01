@@ -2979,7 +2979,7 @@
 - [aguinet/wannakey](https://github.com/aguinet/wannakey) - Wannacry in-memory key recovery
 - [drgullin/icheck](https://github.com/drgullin/icheck) - Highly customizable checkboxes and radio buttons (jQuery & Zepto)
 - [notwaldorf/github-canned-responses](https://github.com/notwaldorf/github-canned-responses) - :zzz: (inactive) Because copy pasting isn't that great.
-- [linsa-io/linsa.io](https://github.com/linsa-io/linsa.io) - Work. Save. Share. Privately.
+- [linsa-io/linsa](https://github.com/linsa-io/linsa) - Work. Save. Share. Privately.
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [billcccheng/ptt-search](https://github.com/billcccheng/ptt-search) - This is a web based search engine for the boards of the biggest BBS site, PTT, in Taiwan and is build in react
 - [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
