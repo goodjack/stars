@@ -835,7 +835,6 @@
 - [wama-tw/notes](https://github.com/wama-tw/notes) - 資訊學科能力競賽筆試筆記
 - [ButTaiwan/genyog-font](https://github.com/ButTaiwan/genyog-font) - A free font family derived from Source Han Sans.
 - [ButTaiwan/genseki-font](https://github.com/ButTaiwan/genseki-font) - A free font family derived from Source Han Sans.
-- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
 - [doggy8088/newtongwen-settings](https://github.com/doggy8088/newtongwen-settings) - 本專案整理「新同文堂」針對「軟體行業」翻譯詞彙的總整理，使用者直接匯入 JSON 設定就可以使用。
 - [f2etw/jobs](https://github.com/f2etw/jobs) - Our jobs board.
@@ -1112,6 +1111,7 @@
 ## Python 
 
 - [HeiTang/yannick-stock-checker](https://github.com/HeiTang/yannick-stock-checker) - 亞尼克 YTM 蛋糕販賣機庫存查詢
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [Raymondhou0917/speak-human-tw](https://github.com/Raymondhou0917/speak-human-tw) - 「說人話」：繁體中文的去 AI 味改寫 skill。抓 38 種 AI 寫作痕跡，順手校正中國用語與半形標點，給 Claude Code / Codex / Cursor 用。
 - [realiti4/claude-swap](https://github.com/realiti4/claude-swap) - Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions
@@ -1321,7 +1321,6 @@
 
 - [omacom/omakub](https://github.com/omacom/omakub) - Retired — the story lives at https://omarchy.org/omakub, the thread continues at https://omabuntu.omakasui.org
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
-- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
 - [tzengyuxio/claude-statusline](https://github.com/tzengyuxio/claude-statusline) - Two-line status line for Claude Code with context bar, usage tracking, git status, and Nerd Font icons
@@ -1349,6 +1348,7 @@
 - [foospidy/payloads](https://github.com/foospidy/payloads) - Git All the Payloads! A collection of web attack payloads.
 - [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
 - [qw3rtman/git-fire](https://github.com/qw3rtman/git-fire) - :fire: Save Your Code in an Emergency
+- [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [rw251/git-summary](https://github.com/rw251/git-summary) - Summarizes multiple git repository status within a directory.
 - [appleboy/dotfiles](https://github.com/appleboy/dotfiles) - Bootstrap for your terminal on Linux or FreeBSD
@@ -1390,7 +1390,7 @@
 - [kkdai/meme-finder-app](https://github.com/kkdai/meme-finder-app) - A native macOS menu-bar app for semantic meme search using Google Gemini AI — 中文語意搜尋，點圖即複製
 - [TableProApp/TablePro](https://github.com/TableProApp/TablePro) - Free and open source database client built natively for developers
 - [rock74710/TypelessMLX](https://github.com/rock74710/TypelessMLX) - macOS 語音聽寫 App — MLX Whisper + Breeze-ASR-25，完全離線，Apple Silicon 最佳化
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The open source menu bar manager
 - [MxIris-LyricsX-Project/LyricsX](https://github.com/MxIris-LyricsX-Project/LyricsX) - 🎶 Ultimate lyrics app for macOS.
 - [Tofuswang/panictrack](https://github.com/Tofuswang/panictrack) - 
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
