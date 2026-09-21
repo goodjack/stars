@@ -721,6 +721,7 @@
 
 ## Others 
 
+- [Coder-World04/Complete-System-Design](https://github.com/Coder-World04/Complete-System-Design) - This repository contains everything you need to become proficient in System Design
 - [ulid/spec](https://github.com/ulid/spec) - The canonical spec for ulid
 - [kkc/scenecap-releases](https://github.com/kkc/scenecap-releases) - SceneCap releases
 - [blob42/awesome-explorables](https://github.com/blob42/awesome-explorables) - A curated list of awesome explorable explanations.
