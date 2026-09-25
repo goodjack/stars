@@ -31,10 +31,12 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: |
+        status=0
         for attempt in 1 2 3; do
           starred --username "${USERNAME}" --repository "${REPOSITORY}" --sort --token "${GITHUB_TOKEN}" --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md && exit 0
+          status=$?
           if [ "${attempt}" -lt 3 ]; then
             sleep $((attempt * 15))
           fi
         done
-        exit 1
+        exit "${status}"
