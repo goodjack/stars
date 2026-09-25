@@ -33,8 +33,6 @@ jobs:
       run: |
         for attempt in 1 2 3; do
           starred --username "${USERNAME}" --repository "${REPOSITORY}" --sort --token "${GITHUB_TOKEN}" --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md && exit 0
-          if [ "${attempt}" -eq 3 ]; then
-            exit 1
-          fi
           sleep $((attempt * 15))
         done
+        exit 1
