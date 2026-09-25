@@ -34,10 +34,10 @@ jobs:
         max_attempts=3
         status=1
         for attempt in $(seq 1 "${max_attempts}"); do
-          if starred --username "${USERNAME}" --repository "${REPOSITORY}" --sort --token "${GITHUB_TOKEN}" --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md; then
+          status=0
+          starred --username "${USERNAME}" --repository "${REPOSITORY}" --sort --token "${GITHUB_TOKEN}" --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md || status=$?
+          if [ "${status}" -eq 0 ]; then
             exit 0
-          else
-            status=$?
           fi
           if [ "${attempt}" -lt "${max_attempts}" ]; then
             sleep $((attempt * 15))
