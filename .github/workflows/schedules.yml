@@ -31,7 +31,6 @@ jobs:
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: |
-        command -v starred >/dev/null
         set +e
         status=0
         for attempt in 1 2 3; do
