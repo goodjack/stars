@@ -32,15 +32,16 @@ jobs:
         USERNAME: ${{ github.repository_owner }}
       run: |
         set +e
+        max_attempts=3
         status=0
-        for attempt in 1 2 3; do
+        for attempt in $(seq 1 "${max_attempts}"); do
           starred --username "${USERNAME}" --repository "${REPOSITORY}" --sort --token "${GITHUB_TOKEN}" --message 'awesome-stars category by topic update by github actions cron, created by starred' --topic --topic_limit 500 --filename topics.md
           status=$?
           if [ "${status}" -eq 0 ]; then
             set -e
             exit 0
           fi
-          if [ "${attempt}" -lt 3 ]; then
+          if [ "${attempt}" -lt "${max_attempts}" ]; then
             sleep $((attempt * 15))
           fi
         done
