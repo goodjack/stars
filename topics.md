@@ -1079,7 +1079,7 @@
 
 ## deployment 
 
-- [tjjh89017/ezio](https://github.com/tjjh89017/ezio) - BT-based Disk Deployment tool
+- [tjjh89017/ezio](https://github.com/tjjh89017/ezio) - Scalable BitTorrent-Based Bare Metal Provisioning
 
 ## design 
 
