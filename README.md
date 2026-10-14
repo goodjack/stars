@@ -257,7 +257,7 @@
 ## HTML 
 
 - [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design) - Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic
-- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI montion AI agent, a library of 43+ crafted transitions, a skill that fits your workflow.
+- [Jakubantalik/transitions.dev](https://github.com/Jakubantalik/transitions.dev) - UI motion agent, a library of 43+ crafted transitions, a skill that fits your workflow.
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45+ tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin: skills for 
 - [caris-events/tunalog](https://github.com/caris-events/tunalog) - 🐟 Tunalog is a no-installation, easy-to-use blogging system written in Go.
@@ -493,6 +493,7 @@
 - [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
 - [bradwoo8621/moment-taiwan](https://github.com/bradwoo8621/moment-taiwan) - Taiwan format support for momentjs
 - [ikeboy/pluralsight-scraper](https://github.com/ikeboy/pluralsight-scraper) - Pluralsight video downloader
+- [icons8/line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [pc035860/twitch-rem-fix](https://github.com/pc035860/twitch-rem-fix) - Fix Twich REM layout for Chinese Chrome users
 - [fomantic/Fomantic-UI](https://github.com/fomantic/Fomantic-UI) - Fomantic-UI is the official community fork of Semantic-UI
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -574,7 +575,6 @@
 - [KieSun/Chat-Buy-React](https://github.com/KieSun/Chat-Buy-React) - Client for beginners to learn, built with React / Redux / Node
 - [reaalkhalil/JSRobot](https://github.com/reaalkhalil/JSRobot) - 
 - [hisabimbola/slack-history-export](https://github.com/hisabimbola/slack-history-export) - A NPM module that allows slack users export their history
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [aaaddress1/isuMaster-NodeJS](https://github.com/aaaddress1/isuMaster-NodeJS) - 義守管家線上雲端服務
 - [ajhsu/uniqlo-web-api](https://github.com/ajhsu/uniqlo-web-api) - Looking inside how UNIQLO SPA works through its web API.
 - [Shopify/draggable](https://github.com/Shopify/draggable) - The JavaScript Drag & Drop library your grandparents warned you about.
@@ -817,7 +817,6 @@
 - [ansible-tw/AMA](https://github.com/ansible-tw/AMA) - Helping Ansible users in Taiwan with any questions.
 - [andrews1022/web-development-course-list](https://github.com/andrews1022/web-development-course-list) - A list of Udemy courses from Brad Traversy's Web Development 2021 video
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [icons8/line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS
 - [memochou1993/PSR](https://github.com/memochou1993/PSR) - PHP Standards Recommendations
 - [NeroCube/reverse-interview-zh-tw](https://github.com/NeroCube/reverse-interview-zh-tw) - 📖 reverse-interview 繁體中文翻譯計畫。原作者：https://github.com/viraptor/reverse-interview
