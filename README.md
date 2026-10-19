@@ -1179,7 +1179,7 @@
 - [penut85420/TranslationImprover](https://github.com/penut85420/TranslationImprover) - 監督 Google Translate 翻譯臺灣用語計畫的自動填表系統
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [husan42/PChome-alertor](https://github.com/husan42/PChome-alertor) - PChome購物 商品有貨or降價 Line訊息通知
-- [OWASP/www-project-secure-headers](https://github.com/OWASP/www-project-secure-headers) - The OWASP Secure Headers Project
+- [OWASP/secure-headers-project](https://github.com/OWASP/secure-headers-project) - The OWASP Secure Headers Project
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
