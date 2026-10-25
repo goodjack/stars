@@ -80,6 +80,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
@@ -1222,6 +1223,13 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [appleboy/dotfiles](https://github.com/appleboy/dotfiles) - Bootstrap for your terminal on Linux or FreeBSD
+
+## downloader 
+
+- [r0oth3x49/udemy-dl](https://github.com/r0oth3x49/udemy-dl) - A cross-platform python based utility to download courses from udemy for personal offline use.
+- [FaisalUmair/udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui) - A desktop application for downloading Udemy Courses
+- [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
+- [carlosflorencio/laracasts-downloader](https://github.com/carlosflorencio/laracasts-downloader) - Downloads new lessons and series from laracasts if there are updates. Or the whole catalogue.
 
 ## dsh-plugin 
 
@@ -2796,7 +2804,6 @@
 - [evanslify/continuity](https://github.com/evanslify/continuity) - Re-implementation of Apple's Continuity Protocol
 - [i3thuan5/TauPhahJi-BangTsam](https://github.com/i3thuan5/TauPhahJi-BangTsam) - 媠聲／鬥拍字 - 唸台語文予你聽，台語語音合成開源服務
 - [aszx87410/medium-user-crawler](https://github.com/aszx87410/medium-user-crawler) - Medium user crawler
-- [TnS-hun/kobo-book-downloader](https://github.com/TnS-hun/kobo-book-downloader) - A tool to download your purchased Kobo books and remove the DRM from them.
 - [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [sehowju/The-Art-of-Readable-Code](https://github.com/sehowju/The-Art-of-Readable-Code) - The-Art-of-Readable-Code Reading Digest
