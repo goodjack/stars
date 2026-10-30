@@ -595,7 +595,7 @@
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [joseluisq/prelodr](https://github.com/joseluisq/prelodr) - A simple Material preloader inspired by Google Inbox.
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：AI、学习 、创业、财富、爱情与人生
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts) - Based on a true story
@@ -1507,7 +1507,7 @@
 - [gnehs/pancake-bot](https://github.com/gnehs/pancake-bot) - 🥞 可愛鬆餅 Telegram bot
 - [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Shopify/polaris-react-archive](https://github.com/Shopify/polaris-react-archive) - Shopify's Polaris Design System - React implementation (Deprecated)
 - [pan93412/homepage](https://github.com/pan93412/homepage) - Pan93412's Homepage
 - [gnehs/ntut-course-web](https://github.com/gnehs/ntut-course-web) - 這裡是北科課程好朋友，提供使用者以輕鬆的方式查詢與檢視課程資訊！
