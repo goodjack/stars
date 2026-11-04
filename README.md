@@ -93,7 +93,6 @@
 ## C 
 
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-- [gnehs/TaiwanZipcode](https://github.com/gnehs/TaiwanZipcode) - 即時、快速、無需驗證碼之郵遞區號線上查詢工具。
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -1518,6 +1517,7 @@
 - [lightyen/vscode-fanhuaji](https://github.com/lightyen/vscode-fanhuaji) - vscode extension for Fanhuaji
 - [tongwentang/tongwen-dict](https://github.com/tongwentang/tongwen-dict) - 
 - [meta/lexical](https://github.com/meta/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [gnehs/TaiwanZipcode](https://github.com/gnehs/TaiwanZipcode) - 即時、快速、無需驗證碼之郵遞區號線上查詢工具。
 - [star-history/star-history](https://github.com/star-history/star-history) - The de facto GitHub star history graph.
 - [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
 - [iorate/ublacklist](https://github.com/iorate/ublacklist) - Blocks specific sites from appearing in Google search results
