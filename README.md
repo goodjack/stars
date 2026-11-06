@@ -508,7 +508,6 @@
 - [kleampa/not-paid](https://github.com/kleampa/not-paid) - Client did not pay? Add opacity to the body tag and decrease it every day until their site completely fades away
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [Rob--W/cors-anywhere](https://github.com/Rob--W/cors-anywhere) - CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.
-- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [maxchou415/hanKuoYu-Filter](https://github.com/maxchou415/hanKuoYu-Filter) - The Chrome Extension to hide any post which is include "HanKuoYu" on Facebook.
 - [BrowserLove/chrome-medium-unlimited-reading](https://github.com/BrowserLove/chrome-medium-unlimited-reading) - Chrome extension to remove Medium.com member-only article read limit. https://chrome.google.com/webstore/detail/mediumcom-unlimited-readi/keckgflodjmhejpbhfbfoioonoeeckng
 - [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -580,7 +579,7 @@
 - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
 - [henry40408/awesome-stars](https://github.com/henry40408/awesome-stars) - Awesome Stars is a chrome extension that shows you stars of repository on awesome list
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
-- [fent/chrome-options](https://github.com/fent/chrome-options) - Options page for Chrome extensions
+- [fent/web-extension-options](https://github.com/fent/web-extension-options) - Options page for Chrome extensions
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -1124,8 +1123,8 @@
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [tantuyutty/thu-course-crawler](https://github.com/tantuyutty/thu-course-crawler) - 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
-- [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - Open-source registry and CLI for Claude Code components: agents, commands, skills, hooks, MCPs, settings and mods
+- [wshobson/agents](https://github.com/wshobson/agents) - Plugins, agents, skills, and commands for Claude Code, Codex CLI, Cursor, OpenCode, Antigravity CLI, GitHub Copilot, and Pi, written once in Markdown and adapted to each tool by generators with valida
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliatio
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
@@ -1421,7 +1420,7 @@
 ## TypeScript 
 
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of coding agents (e.g. Claude Code, Codex). Run any agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca lets you run a fleet of coding agents (e.g. Claude Code, Codex) with your own subscription. Available on desktop, mobile and remote runtime.
 - [stats-organization/github-stats-extended](https://github.com/stats-organization/github-stats-extended) - Dynamically generate GitHub stats for your READMEs.
 - [yetone/cumora](https://github.com/yetone/cumora) - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
@@ -1567,6 +1566,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
 - [pedronauck/docz](https://github.com/pedronauck/docz) - ✍ It has never been so easy to document your things!
+- [nilbuild/githunt](https://github.com/nilbuild/githunt) - Hunt the most starred projects on any date on GitHub
 - [recca0120/vscode-phpunit](https://github.com/recca0120/vscode-phpunit) - Run PHPUnit and Pest tests in VS Code with the native Test Explorer. Supports Docker, SSH, Laravel Sail, ParaTest, and Xdebug step-debugging.
 - [recca0120/phpunit-language-server](https://github.com/recca0120/phpunit-language-server) - PHPUnit Langage Server Protocol
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
