@@ -579,7 +579,7 @@
 - [kbrsh/moon](https://github.com/kbrsh/moon) - 🌙 The minimal & fast library for functional user interfaces
 - [henry40408/awesome-stars](https://github.com/henry40408/awesome-stars) - Awesome Stars is a chrome extension that shows you stars of repository on awesome list
 - [altryne/extensionizr](https://github.com/altryne/extensionizr) - Extensionizr! Create a chrome extension in 15 seconds!
-- [fent/web-extension-options](https://github.com/fent/web-extension-options) - Options page for Chrome extensions
+- [fent/web-extension-options](https://github.com/fent/web-extension-options) - Options page for browser extensions
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [aksakalli/gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for terminal
 - [ncase/trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation
@@ -757,7 +757,6 @@
 - [php-fig/per-coding-style](https://github.com/php-fig/per-coding-style) - PER coding style
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [Koyingtw/cs-events](https://github.com/Koyingtw/cs-events) - 臺灣資訊活動彙整
-- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [Koyingtw/spec-share](https://github.com/Koyingtw/spec-share) - 特選備審分享
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [fei3363/Awesome-Taiwan-Security-Course](https://github.com/fei3363/Awesome-Taiwan-Security-Course) - Collect the list of information security courses of universities and communities in Taiwan
