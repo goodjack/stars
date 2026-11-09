@@ -157,6 +157,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
@@ -1651,7 +1652,6 @@
 - [irazasyed/laravel-gamp](https://github.com/irazasyed/laravel-gamp) - 📊 Laravel Google Analytics Measurement Protocol Package
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -2016,7 +2016,7 @@
 - [spatie/laravel-honeypot](https://github.com/spatie/laravel-honeypot) - Preventing spam submitted through forms
 - [php-casbin/laravel-authz](https://github.com/php-casbin/laravel-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel.
 - [onecentlin/laravel-extension-pack-vscode](https://github.com/onecentlin/laravel-extension-pack-vscode) - A collection of extensions for Laravel development in Visual Studio Code
-- [matt-allan/laravel-code-style](https://github.com/matt-allan/laravel-code-style) - Automatic code formatting for Laravel projects
+- [blaircraige/laravel-code-style](https://github.com/blaircraige/laravel-code-style) - Automatic code formatting for Laravel projects
 - [JeffreyWay/Laravel-From-Scratch-Blog-Project](https://github.com/JeffreyWay/Laravel-From-Scratch-Blog-Project) - The completed blog demo project from Laravel 8 From Scratch.
 - [mavinoo/laravelBatch](https://github.com/mavinoo/laravelBatch) - insert batch and update batch in laravel
 - [SpartnerNL/Laravel-Excel](https://github.com/SpartnerNL/Laravel-Excel) - 🚀 Supercharged Excel exports and imports in Laravel
@@ -2303,6 +2303,11 @@
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+
+## mcp-server 
+
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 
 ## microservices 
 
@@ -3117,7 +3122,7 @@
 - [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit) - The PHP Unit Testing framework.
 - [nunomaduro/termwind](https://github.com/nunomaduro/termwind) - 🍃 In short, it's like Tailwind CSS, but for the PHP command-line applications.
 - [mlocati/php-cs-fixer-configurator](https://github.com/mlocati/php-cs-fixer-configurator) - Inspect PHP-CS-Fixer fixers and easily configure them
-- [matt-allan/laravel-code-style](https://github.com/matt-allan/laravel-code-style) - Automatic code formatting for Laravel projects
+- [blaircraige/laravel-code-style](https://github.com/blaircraige/laravel-code-style) - Automatic code formatting for Laravel projects
 - [mavinoo/laravelBatch](https://github.com/mavinoo/laravelBatch) - insert batch and update batch in laravel
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [recca0120/twzipcode](https://github.com/recca0120/twzipcode) - 正規化台灣地址，並取得縣市、鄉鎮、區碼
