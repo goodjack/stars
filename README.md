@@ -952,7 +952,7 @@
 - [Sea-n/xNTHU](https://github.com/Sea-n/xNTHU) - 靠北清大 2.0 - 不要問為何沒有人審文，先承認你就是沒有人。
 - [php-casbin/laravel-authz](https://github.com/php-casbin/laravel-authz) - An authorization library that supports access control models like ACL, RBAC, ABAC in Laravel.
 - [Kantai235/php-design-pattern](https://github.com/Kantai235/php-design-pattern) - 歡迎收看設計模式大頭菜，設計模式大頭菜帶你找到屬於你的設計模式。
-- [matt-allan/laravel-code-style](https://github.com/matt-allan/laravel-code-style) - Automatic code formatting for Laravel projects
+- [blaircraige/laravel-code-style](https://github.com/blaircraige/laravel-code-style) - Automatic code formatting for Laravel projects
 - [JeffreyWay/Laravel-From-Scratch-Blog-Project](https://github.com/JeffreyWay/Laravel-From-Scratch-Blog-Project) - The completed blog demo project from Laravel 8 From Scratch.
 - [mavinoo/laravelBatch](https://github.com/mavinoo/laravelBatch) - insert batch and update batch in laravel
 - [Sea-n/tgpe](https://github.com/Sea-n/tgpe) - Shortest URL Shortener for Telegram Bot
