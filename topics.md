@@ -3364,7 +3364,6 @@
 - [gruns/icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again.
 - [essembeh/python-helloworld](https://github.com/essembeh/python-helloworld) - Simple helloworld skeleton to help starting a new python project
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [PyPtt/PyPtt](https://github.com/PyPtt/PyPtt) - The best PTT library
 - [zdict/zdict](https://github.com/zdict/zdict) - The last online dictionary CLI framework you need.
 - [fkztw/sgl](https://github.com/fkztw/sgl) - A simple crawler for https://rent.591.com.tw/
