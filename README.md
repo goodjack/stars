@@ -236,7 +236,6 @@
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [StillFantastic/bullshit](https://github.com/StillFantastic/bullshit) - A bullshit generator / 唬爛產生器
 - [TritonHo/slides](https://github.com/TritonHo/slides) - it is a repository to store all slides used by Triton Ho's public presentation and course.
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [wallix/awless](https://github.com/wallix/awless) - A Mighty CLI for AWS
 - [mailhog/MailHog](https://github.com/mailhog/MailHog) - Web and API based SMTP testing
 - [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
@@ -969,7 +968,7 @@
 - [Hi-Folks/gh-actions-yaml-generator](https://github.com/Hi-Folks/gh-actions-yaml-generator) - Ghygen is a GitHub Actions configurator for your PHP / Laravel project.
 - [psalm/psalm-plugin-laravel](https://github.com/psalm/psalm-plugin-laravel) - Security-focused Laravel static analyser
 - [StydeNet/enlighten](https://github.com/StydeNet/enlighten) - Enlighten your APIs with auto-generated documentation
-- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - Translations by native speakers for the Laravel ecosystem.
+- [Laravel-Lang/lang](https://github.com/Laravel-Lang/lang) - [READ ONLY] Subtree split of the Laravel-Lang Lang component (see Laravel-Lang/mona)
 - [FriendsOfPHP/security-advisories](https://github.com/FriendsOfPHP/security-advisories) - A database of PHP security advisories
 - [ylsideas/feature-flags](https://github.com/ylsideas/feature-flags) - A Laravel package for handling feature flags
 - [laravel-shift/laravel-8.x](https://github.com/laravel-shift/laravel-8.x) - 
@@ -1541,6 +1540,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [tongwentang/tongwentang-extension](https://github.com/tongwentang/tongwentang-extension) - 
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
